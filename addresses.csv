@@ -1,0 +1,1710 @@
+id,name,region_id
+1,str. M. Kogalniceanu nr. 57 NITU CATALIN ( bs ),30
+2,str. Aleea Pinului nr. 2 sc.A - ( bs ),8
+3,str. Calea Nationala nr. 8scA ( bs ),34
+4,str. Armoniei nr. 11 CASA ARMONIA,4
+5,str. Alexandru Donici Y22-BIS,14
+6,str. Armoniei nr. 14 V 9,1
+7,str. B-dul M. Eminescu nr. 37 K1- sc. A,1
+8,str. B-dul M. Eminescu nr. 37 K 1- sc. B,1
+9,str. B-dul M. Eminescu nr. 35 K 2- sc. B,1
+10,str. B-dul M. Eminescu nr. 35 K 2- sc. C,1
+11,str. B-dul M. Eminescu nr. 35 K 2- sc. D,1
+12,str. Octav Bancila nr. 2 B (K 3),1
+13,str. Octav Bancila nr. 2 A (K 3),1
+14,str. Octav Bancila nr. 4 B (K 4),1
+15,str. Octav Bancila nr. 4 A (K 4),1
+16,str. Armoniei nr. 12 K 5- sc. B,1
+17,str. Armoniei nr. 12 K 5- sc. C,1
+18,str. Stefan Luchian nr. 2 (20 ap.),1
+19,str. Stefan Luchian nr. 12 A (50 ap.),1
+20,str. Stefan Luchian nr. 10 F (72 ap.),1
+21,str. Stefan Luchian nr. 10 E (72 ap.),1
+22,str. Stefan Luchian nr. 10 D (72 ap.),1
+23,str. Stefan Luchian nr. 10 C (72 ap.),1
+24,str. Stefan Luchian nr. 10 B (72 ap.),1
+25,str. Stefan Luchian nr. 10 A (72 ap.),1
+26,str. Stefan Luchian nr. 6 30 ap.,1
+27,str. Armoniei nr. 10 A 1,1
+28,str. Octav Bancila nr. 4 C (K 4),1
+29,str. Armoniei nr. 12 K 5- sc. A,1
+30,str. Armoniei nr. 12 K 5- sc. D,1
+31,str. B-dul M. Eminescu nr. 37 K 1- sc. C,1
+32,str. B-dul M. Eminescu nr. 35 K 2- sc. A,1
+33,str. Stefan Luchian nr. 4 (2 D) (camin),1
+34,str. Stefan Luchian nr. 12 B (50 ap.),1
+35,str. Stefan Luchian nr. 12 C (50 ap.),1
+36,str. Aleea Scolii nr. 1 sc.B,5
+37,str. Aleea Scolii nr. 4 sc.E,5
+38,str. Aleea Scolii nr. 4 sc.A,5
+39,str. Aleea Scolii nr. 4 sc.D,5
+40,str. Bucovina nr. 8 sc.A,5
+41,str. Aleea Scolii nr. 9 sc.B,5
+42,str. Primaverii nr. 27 sc. A,5
+43,str. Aleea Teodor Callimachi nr. 6 bl.6 sc.D,5
+44,str. Aleea Teodor Callimachi nr. 6 bl.6 sc.B,5
+45,str. Aleea Teodor Callimachi nr. 6 bl.6 sc.A,5
+46,str. Aleea Teodor Callimachi nr. 5 bl.5 sc.C,5
+47,str. Aleea Teodor Callimachi nr. 7 bl.7 sc.B,5
+48,str. Primaverii nr. 29 bl.29 sc.B,5
+49,str. Primaverii nr. 29 bl.29 sc.A,5
+50,str. Primaverii nr. 31 bl.31 sc.A,5
+51,str. Primaverii nr. 31 bl.31 sc.D,5
+52,str. Primaverii nr. 31 bl.31 sc.C,5
+53,str. Primaverii nr. 31 bl.31 sc.B,5
+54,str. Primaverii nr. 35 bl.35 sc.D,5
+55,str. Primaverii nr. 35 bl.35 sc.A,5
+56,str. Primaverii nr. 35 bl.35 sc.B,5
+57,str. Aleea Teodor Callimachi nr. 7 bl.7 sc.A,5
+58,str. Aleea Teodor Callimachi nr. 2 bl.2 sc.B,5
+59,str. Aleea Teodor Callimachi nr. 9 bl.9 sc.A (DO),5
+60,str. Aleea Teodor Callimachi nr. 6 bl.6 sc.E,5
+61,str. Aleea Teodor Callimachi nr. 5 bl.5 sc.A,5
+62,str. Aleea Teodor Callimachi nr. 5 bl.5 sc.B,5
+63,str. Aleea Teodor Callimachi nr. 7 bl.7 sc.C,5
+64,str. Aleea Teodor Callimachi nr. 7 bl.7 sc.D,5
+65,str. Aleea Teodor Callimachi nr. 7 bl.7 sc.E,5
+66,str. Aleea Teodor Callimachi nr. 2 bl.2 sc.A,5
+67,str. Aleea Teodor Callimachi nr. 9 bl.9 sc.B,5
+68,str. Aleea Teodor Callimachi nr. 9 bl.9 sc.C,5
+69,str. Aleea Teodor Callimachi nr. 9 bl.9 sc.D,5
+70,str. Aleea Teodor Callimachi nr. 4 bl.4 sc.A,5
+71,str. Aleea Teodor Callimachi nr. 2 bl.2 sc.D,5
+72,str. Aleea Teodor Callimachi nr. 4 bl.4 sc.B,5
+73,str. Aleea Teodor Callimachi nr. 4 bl.4 sc.C,5
+74,str. Primaverii nr. 35 bl.35 sc.C,5
+75,str. Aleea Scolii nr. 9 sc.A,5
+76,str. Aleea Scolii nr. 9 sc.C,5
+77,str. Aleea Scolii nr. 4 sc.C,5
+78,str. Aleea Scolii nr. 4 sc.B,5
+79,str. Aleea Scolii nr. 1 sc.F,5
+80,str. Aleea Scolii nr. 1 sc.E,5
+81,str. Aleea Scolii nr. 1 sc.D,5
+82,str. Aleea Scolii nr. 1 sc.C,5
+83,str. Aleea Scolii nr. 1 sc.A,5
+84,str. B-dul. G. Enescu nr. 5 sc.F,5
+85,str. Aleea Scolii nr. 2 sc.D,5
+86,str. Aleea Scolii nr. 2 sc.C,5
+87,str. Aleea Scolii nr. 2 sc.B,5
+88,str. Aleea Scolii nr. 2 sc.A,5
+89,str. Bucovina nr. 6 sc.A,5
+90,str. Bucovina nr. 8 sc.D,5
+91,str. Bucovina nr. 10 sc.A,5
+92,str. Bucovina nr. 10 sc.B,5
+93,str. M. Kogalniceanu nr. 24 sc.A,5
+94,str. M. Kogalniceanu nr. 24 sc.B,5
+95,str. M. Kogalniceanu nr. 36 sc.A,5
+96,str. M. Kogalniceanu nr. 36 sc.B,5
+97,str. Primaverii nr. 27 sc. B,5
+98,str. Aleea Teodor Callimachi nr. 6 bl.6 sc.C,5
+99,str. Aleea Teodor Callimachi nr. 2 bl.2 sc.C,5
+100,str. B-dul. G. Enescu nr. 5 sc.D,5
+101,str. B-dul. G. Enescu nr. 5 sc.H,5
+102,str. Bucovina nr. 6 sc.C,5
+103,str. B-dul. G. Enescu nr. 5 sc.A,5
+104,str. B-dul. G. Enescu nr. 5 sc.B,5
+105,str. B-dul. G. Enescu nr. 5 sc.C,5
+106,str. B-dul. G. Enescu nr. 5 sc.E,5
+107,str. B-dul. G. Enescu nr. 5 sc.G,5
+108,str. Bucovina nr. 6 sc.B,5
+109,str. Bucovina nr. 8 sc.B,5
+110,str. Bucovina nr. 8 sc.C,5
+111,str. Col. Tomoroveanu nr. 5 CASA MIHALACHI,6
+112,str. Primaverii nr. 1 sc.B,6
+113,str. Primaverii nr. 3 B,6
+114,str. Primaverii nr. 3 C,6
+115,str. Primaverii nr. 3 D (DO),6
+116,str. Sucevei nr. 7E,6
+117,str. Prieteniei nr. 4 sc.B,6
+118,str. Prieteniei nr. 4 sc.A,6
+119,str. Prieteniei nr. 4 sc.C,6
+120,str. Varnav nr. 2 A,6
+121,str. Aleea Liceului nr. 10,6
+122,str. Col. Tomoroveanu nr. 21 sc.B,6
+123,str. Col. Tomoroveanu nr. 21 sc.C,6
+124,str. Primaverii nr. 1 sc.A,6
+125,str. Primaverii nr. 3 A,6
+126,str. Primaverii nr. 3 E,6
+127,str. Sucevei nr. 11 sc.B,6
+128,str. Sucevei nr. 7D,6
+129,str. Sucevei nr. 7F - (DO),6
+130,str. Col. Tomoroveanu nr. 1 EL. TOTAL,6
+131,str. Sucevei nr. 11 sc.A,6
+132,str. Aleea Liceului nr. 14,6
+133,str. Varnav nr. 2 C,6
+134,str. Varnav nr. 2 B,6
+135,str. Col. Tomoroveanu nr. 21 sc.A,6
+136,str. Col. Tomoroveanu nr. 21 sc.D,6
+137,str. Col. Tomoroveanu nr. 7 sc.A,6
+138,str. Col. Tomoroveanu nr. 7 sc.B,6
+139,str. Col. Tomoroveanu nr. 17,6
+140,str. Prieteniei nr. 4 sc.D,6
+141,str. B-dul M. Eminescu nr. 10 C,6
+142,str. B-dul M. Eminescu nr. 10 E (DO),6
+143,str. B-dul M. Eminescu nr. 10 B,6
+144,str. B-dul M. Eminescu nr. 10 A,6
+145,str. B-dul M. Eminescu nr. 10 G,6
+146,str. B-dul M. Eminescu nr. 10 F,6
+147,str. B-dul M. Eminescu nr. 10 D,6
+148,str. Manolesti Deal nr. 12 (77),35
+149,str. Adrian Adamiu nr. 1 sc. B,35
+150,str. Adrian Adamiu nr. 1 sc. C,35
+151,str. Adrian Adamiu nr. 1 sc. A,35
+152,str. Adrian Adamiu nr. 1 sc. D,35
+153,str. Manolesti Deal nr. 8 sc. A (DO),35
+154,str. Adrian Adamiu nr. 8 (A 4),35
+155,str. Adrian Adamiu nr. 6 Arca - Camin nr.2,35
+156,str. Adrian Adamiu nr. 12 - Camin C1,35
+157,str. Adrian Adamiu nr. 10 B - Camin C2,35
+158,str. Adrian Adamiu nr. 10 A - Camin C3,35
+159,str. Manolesti Deal nr. 10 Arca - Camin nr.1,35
+160,str. Manolesti Deal nr. 8 sc. B (DO),35
+161,str. Aleea Prieteniei nr. 3 C (D 3),7
+162,str. Aleea Prieteniei nr. 3 B (D 4),7
+163,str. Aleea Prieteniei nr. 3 A (D 5),7
+164,str. Prieteniei nr. 9 A (V 4),7
+165,str. Prieteniei nr. 9 B (V 4),7
+166,str. Prieteniei nr. 9 C (V 4),7
+167,str. Aleea Prieteniei nr. 1 sc. A,7
+168,str. Aleea Prieteniei nr. 1 sc. B,7
+169,str. Varnav nr. 1A (V 8),7
+170,str. Varnav nr. 1B (V 8),7
+171,str. Varnav nr. 1C (V 8),7
+172,str. Varnav nr. 5C (V 10),7
+173,str. Varnav nr. 5B (V 10),7
+174,str. Varnav nr. 5A (V 10),7
+175,str. Varnav nr. 4D (V 6),7
+176,str. Varnav nr. 4C (V 6),7
+177,str. Varnav nr. 4B (V 6),7
+178,str. Varnav nr. 3B,7
+179,str. Varnav nr. 3A,7
+180,str. Varnav nr. 6E,7
+181,str. Varnav nr. 6D,7
+182,str. Varnav nr. 6C (F 7)-DO,7
+183,str. Varnav nr. 6B,7
+184,str. Varnav nr. 6A,7
+185,str. Varnav nr. 20B,7
+186,str. Varnav nr. 20A,7
+187,str. Varnav nr. 14B,7
+188,str. Varnav nr. 14A,7
+189,str. Varnav nr. 8C,7
+190,str. Varnav nr. 8B,7
+191,str. Varnav nr. 8A,7
+192,str. Prieteniei nr. 10 B,7
+193,str. Prieteniei nr. 10 A,7
+194,str. Prieteniei nr. 11 A,7
+195,str. Prieteniei nr. 11 B,7
+196,str. Aleea Prieteniei nr. 2 H,7
+197,str. Aleea Prieteniei nr. 2 G,7
+198,str. Aleea Prieteniei nr. 2 F,7
+199,str. Aleea Prieteniei nr. 2 E,7
+200,str. Aleea Prieteniei nr. 2 D,7
+201,str. Aleea Prieteniei nr. 2 C,7
+202,str. Aleea Prieteniei nr. 2 B - (DO),7
+203,str. Aleea Prieteniei nr. 2 A,7
+204,str. Primaverii nr. 5 A,7
+205,str. Primaverii nr. 5 B,7
+206,str. Primaverii nr. 5 C,7
+207,str. Primaverii nr. 5 D,7
+208,str. Primaverii nr. 5 E,7
+209,str. Primaverii nr. 5 F,7
+210,str. Primaverii nr. 9 A (P 17),7
+211,str. Primaverii nr. 9 B (P 17),7
+212,str. Primaverii nr. 9 C (P 17),7
+213,str. Primaverii nr. 9 D (P 17),7
+214,str. Primaverii nr. 9 E (P 17),7
+215,str. Primaverii nr. 7 B (P 15),7
+216,str. Primaverii nr. 7 A (P 15),7
+217,str. Varnav nr. 4A (V 6),7
+218,str. Octav Onicescu nr. 27 (TURN 2),8
+219,str. Octav Onicescu nr. 33 (TURN 1),8
+220,str. Aleea Primaverii nr. 1 (S 1),8
+221,str. Aleea Noua nr. 3 (G 5),8
+222,str. B-dul M. Eminescu nr. 20 sc.C,8
+223,str. Aleea Pinului nr. 5 (I 11),8
+224,str. Aleea Pinului nr. 7 E (I 18),8
+225,str. Aleea Pinului nr. 3 (I 12),8
+226,str. Aleea Noua nr. 5 A (I 22),8
+227,str. Aleea Noua nr. 2D (G 9),8
+228,str. Aleea Noua nr. 4 (G 10),8
+229,str. Aleea Noua nr. 5 B (G 23),8
+230,str. Aleea Pinului nr. 1 (I 13),8
+231,str. Aleea Pinului nr. 2 sc.A,8
+232,str. Aleea Noua nr. 2C (G 8),8
+233,str. Aleea Noua nr. 1A (J 8),8
+234,str. Aleea Noua nr. 5 C (G 19),8
+235,str. Aleea Noua nr. 6 (B 4),8
+236,str. Aleea Pinului nr. 7 A (R 14),8
+237,str. Aleea Pinului nr. 7 B (R 15),8
+238,str. Aleea Pinului nr. 7 C (R 16),8
+239,str. B-dul M. Eminescu nr. 20 sc.B,8
+240,str. Aleea Pinului nr. 7 D (M 17),8
+241,str. Aleea Pinului nr. 2B (I 19),8
+242,str. B-dul M. Eminescu nr. 20 sc.A,8
+243,str. Varnav nr. 11,8
+244,str. Varnav nr. 9*,8
+245,str. Aleea Primaverii nr. 3 B,8
+246,str. Aleea Primaverii nr. 3 C,8
+247,str. Aleea Primaverii nr. 4*,8
+248,str. Aleea Primaverii nr. 3 A,8
+249,str. Aleea Viilor nr. 6 A (I 9),8
+250,str. Aleea Viilor nr. 6 B (I 10),8
+251,str. Aleea Viilor nr. 6 C (I 11),8
+252,str. Aleea Viilor nr. 6 D (I 12),8
+253,str. Aleea Primaverii nr. 2 A (S 2),8
+254,str. Aleea Primaverii nr. 2 B (S 3),8
+255,str. Aleea Viilor nr. 1 A (S 4),8
+256,str. Aleea Noua nr. 10 (B 2),8
+257,str. Aleea Noua nr. 8 (B 3),8
+258,str. Aleea Viilor nr. 3 (P 12),8
+259,str. Aleea Viilor nr. 1 B (S 5),8
+260,str. Aleea Viilor nr. 4 B (K 1),8
+261,str. Aleea Viilor nr. 4 A (K 2),8
+262,str. Varnav nr. 13 (I 3),8
+263,str. Octav Onicescu nr. 23 (I 4),8
+264,str. Aleea Viilor nr. 2 (I 6),8
+265,str. Aleea Noua nr. 9 (I 24),8
+266,str. Prieteniei nr. 3 A (L 2),8
+267,str. Prieteniei nr. 3 B (L 2),8
+268,str. Prieteniei nr. 1 A (L 1),8
+269,str. Prieteniei nr. 1 B (L 1),8
+270,str. Prieteniei nr. 1 C (L 1),8
+271,str. Prieteniei nr. 5 (H 1),8
+272,str. Octav Onicescu nr. 25 (IIRUC),8
+273,str. Calea Nationala nr. 35 B (G 13B),36
+274,str. Calea Nationala nr. 35 A (ZIB)-DO,36
+275,str. Calea Nationala nr. 35 C (G13A),36
+276,str. Calea Nationala nr. 39 A (PIB)-DO,36
+277,str. Calea Nationala nr. 39 B (PIB)-DO,36
+278,str. Calea Nationala nr. 39 C (PIB),36
+279,str. Calea Nationala nr. 59 B (B 1B),9
+280,str. Calea Nationala nr. 61 A (C 1),9
+281,str. Calea Nationala nr. 61 B (C 2),9
+282,str. Calea Nationala nr. 61 C (C 3),9
+283,str. Imparat Traian nr. 2A (B 2),9
+284,str. Imparat Traian nr. 2B (B 3),9
+285,str. Imparat Traian nr. 4A (B 4),9
+286,str. Imparat Traian nr. 6 A (B 6),9
+287,str. Stefan cel Mare nr. 1 C (L 3),9
+288,str. Stefan cel Mare nr. 1 B (L 2),9
+289,str. Stefan cel Mare nr. 3 (Gars.),9
+290,str. Imparat Traian nr. 6 C (B 8),9
+291,str. Calea Nationala nr. 40 (E 1),9
+292,str. Calea Nationala nr. 42 (F 1),9
+293,str. Calea Nationala nr. 63 A (H 3),9
+294,str. Calea Nationala nr. 63 B (H 4),9
+295,str. Calea Nationala nr. 65 B (I 2),9
+296,str. Calea Nationala nr. 65 C (I 3),9
+297,str. Calea Nationala nr. 38 (D 1),9
+298,str. Calea Nationala nr. 57 C (A 4),9
+299,str. Calea Nationala nr. 57 A (A 2),9
+300,str. Calea Nationala nr. 57 B (A 3),9
+301,str. Stefan cel Mare nr. 1 A (L 1),9
+302,str. Imparat Traian nr. 4B (B 5),9
+303,str. Imparat Traian nr. 6 B (B 7),9
+304,str. Uzinei nr. 2 (A 1),9
+305,str. Stefan cel Mare nr. 4 (G 1),9
+306,str. Calea Nationala nr. 59 A (B 1A),9
+307,str. Stefan cel Mare nr. 2 A (H 2),9
+308,str. Stefan cel Mare nr. 2 B (H 1),9
+309,str. Calea Nationala nr. 65 A (I 1),9
+310,str. Imparat Traian nr. 20 A (F 3),10
+311,str. Al. G-ral. Ghe. Avramescu nr. 3 sc. B (C 1)-( bs ),10
+312,str. Al. G-ral. Ghe. Avramescu nr. 27 sc. A (I 12),10
+313,str. Imparat Traian nr. 20 B (F 4),10
+314,str. Imparat Traian nr. 20 C (F 5),10
+315,str. Imparat Traian nr. 17 B (E 7),10
+316,str. Imparat Traian nr. 19 A (E 8),10
+317,str. Imparat Traian nr. 19 B (E 9),10
+318,str. Imparat Traian nr. 21 A (E 10),10
+319,str. Imparat Traian nr. 21 B (E 11),10
+320,str. Imparat Traian nr. 17 A (E 6),10
+321,str. Imparat Traian nr. 23 B (J 4),10
+322,str. Imparat Traian nr. 24 (F 7),10
+323,str. Imparat Traian nr. 26 A (F 8),10
+324,str. Imparat Traian nr. 28 A (I 1),10
+325,str. Imparat Traian nr. 26 B (F 9),10
+326,str. Imparat Traian nr. 28 C (I 3),10
+327,str. Al. G-ral. Ghe. Avramescu nr. 1 (D 2),10
+328,str. Imparat Traian nr. 13 sc.B (E 3),10
+329,str. Calea Nationala nr. 67 A (J 1),10
+330,str. Calea Nationala nr. 67 B (J 2),10
+331,str. Calea Nationala nr. 69 B (K 2),10
+332,str. Calea Nationala nr. 69 D (K 4),10
+333,str. Imparat Traian nr. 14 sc.B (D 6),10
+334,str. Imparat Traian nr. 14 sc.C (D 7),10
+335,str. Imparat Traian nr. 14 sc.A (D 5),10
+336,str. Imparat Traian nr. 13 sc.A (E 2),10
+337,str. Imparat Traian nr. 15 A (E 4),10
+338,str. Al. G-ral. Ghe. Avramescu nr. 6 sc. A (C 6),10
+339,str. Al. G-ral. Ghe. Avramescu nr. 7 sc. A (F 2),10
+340,str. Al. G-ral. Ghe. Avramescu nr. 12 sc. B (C 10),10
+341,str. Al. G-ral. Ghe. Avramescu nr. 25 sc. C (F 12),10
+342,str. Calea Nationala nr. 71 B (G 10),10
+343,str. Calea Nationala nr. 71 A (G 11),10
+344,str. Al. G-ral. Ghe. Avramescu nr. 16 sc. A (G 3),10
+345,str. Al. G-ral. Ghe. Avramescu nr. 16 sc. B (G 4),10
+346,str. Al. G-ral. Ghe. Avramescu nr. 16 sc. C (G 5),10
+347,str. Calea Nationala nr. 73 C (G 6),10
+348,str. Calea Nationala nr. 73 B (G 7),10
+349,str. Calea Nationala nr. 73 A (G 8),10
+350,str. Calea Nationala nr. 71 C (G 9),10
+351,str. Imparat Traian nr. 21 C (E 12),10
+352,str. Imparat Traian nr. 28 B (I 2),10
+353,str. Imparat Traian nr. 23 A (J 3),10
+354,str. Calea Nationala nr. 67 C (J 3),10
+355,str. Calea Nationala nr. 69 A (K 1),10
+356,str. Calea Nationala nr. 69 C (K 3)-(DO),10
+357,str. Imparat Traian nr. 12 A (D 3),10
+358,str. Imparat Traian nr. 12 B (D 4),10
+359,str. Imparat Traian nr. 18 A (D 8),10
+360,str. Imparat Traian nr. 18 B (D 9),10
+361,str. Imparat Traian nr. 18 C (D 10)-DO,10
+362,str. Imparat Traian nr. 15 B (E 5),10
+363,str. Al. G-ral. Ghe. Avramescu nr. 3 sc. C (D 1),10
+364,str. Al. G-ral. Ghe. Avramescu nr. 3 sc. B (C 1),10
+365,str. Al. G-ral. Ghe. Avramescu nr. 3 sc. A(C 2),10
+366,str. Al. G-ral. Ghe. Avramescu nr. 4 sc. B (C 4),10
+367,str. Al. G-ral. Ghe. Avramescu nr. 4 sc. A (C 3),10
+368,str. Al. G-ral. Ghe. Avramescu nr. 2 sc. B (C 2/2),10
+369,str. Al. G-ral. Ghe. Avramescu nr. 2 sc. A (C 2/1),10
+370,str. Al. G-ral. Ghe. Avramescu nr. 27 sc. B (I 11),10
+371,str. Al. G-ral. Ghe. Avramescu nr. 7 sc. B (F 1),10
+372,str. Al. G-ral. Ghe. Avramescu nr. 25 sc. A (F 10),10
+373,str. Al. G-ral. Ghe. Avramescu nr. 25 sc. B (F 11),10
+374,str. Al. G-ral. Ghe. Avramescu nr. 6 sc. B (C 7),10
+375,str. Al. G-ral. Ghe. Avramescu nr. 6 sc. C (C 8),10
+376,str. Al. G-ral. Ghe. Avramescu nr. 12 sc. A (C 9),10
+377,str. Al. G-ral. Ghe. Avramescu nr. 14 sc. A (G 1),10
+378,str. Al. G-ral. Ghe. Avramescu nr. 14 sc. B (G 2),10
+379,str. Calea Nationala nr. 69 E (K 5),10
+380,str. Imparat Traian nr. 36 A (K 4),11
+381,str. Imparat Traian nr. 36 B (K 5),11
+382,str. Imparat Traian nr. 38 A (K 6),11
+383,str. Imparat Traian nr. 38 B (K 7),11
+384,str. Al. G-ral. Ghe. Avramescu nr. 35 C (K 8),11
+385,str. Al. G-ral. Ghe. Avramescu nr. 35 B (K 9),11
+386,str. Al. G-ral. Ghe. Avramescu nr. 35 A (K 10),11
+387,str. Al. G-ral. Ghe. Avramescu nr. 33 A (K 12),11
+388,str. Al. G-ral. Ghe. Avramescu nr. 31 C (K 13),11
+389,str. Al. G-ral. Ghe. Avramescu nr. 31 B (K 14),11
+390,str. Al. G-ral. Ghe. Avramescu nr. 31 A (K 15),11
+391,str. Imparat Traian nr. 40 A (O 1),11
+392,str. Imparat Traian nr. 40 B (O 2),11
+393,str. Imparat Traian nr. 40 C (O 3),11
+394,str. Imparat Traian nr. 42 A (O 4),11
+395,str. Imparat Traian nr. 42 B (O 5),11
+396,str. Imparat Traian nr. 42 C (O 6),11
+397,str. Al. G-ral. Ghe. Avramescu nr. 41 C (O 7),11
+398,str. Al. G-ral. Ghe. Avramescu nr. 41 B (O 8),11
+399,str. Al. G-ral. Ghe. Avramescu nr. 41 A (O 9),11
+400,str. Al. G-ral. Ghe. Avramescu nr. 37 D (O 10),11
+401,str. Al. G-ral. Ghe. Avramescu nr. 37 C (O 11),11
+402,str. Al. G-ral. Ghe. Avramescu nr. 37 B (O 12),11
+403,str. Al. G-ral. Ghe. Avramescu nr. 37 A (O 13),11
+404,str. Al. G-ral. Ghe. Avramescu nr. 30 B (N 2),11
+405,str. Al. G-ral. Ghe. Avramescu nr. 29 sc. A (I 10),11
+406,str. Calea Nationala nr. 77 A,11
+407,str. Calea Nationala nr. 79 A (11 A),11
+408,str. Calea Nationala nr. 79 D (11 D),11
+409,str. Calea Nationala nr. 87 B (13 B),11
+410,str. Calea Nationala nr. 89 (13 D),11
+411,str. Al. G-ral. Ghe. Avramescu nr. 22 (L 2),11
+412,str. Al. G-ral. Ghe. Avramescu nr. 24 A (L 3),11
+413,str. Al. G-ral. Ghe. Avramescu nr. 24 B (L 4),11
+414,str. Al. G-ral. Ghe. Avramescu nr. 24 C (L 5),11
+415,str. Al. G-ral. Ghe. Avramescu nr. 26 (M 3),11
+416,str. Al. G-ral. Ghe. Avramescu nr. 28 C (M 6),11
+417,str. Imparat Traian nr. 30 A (I 4),11
+418,str. Octav Onicescu nr. 55 C (I 7),11
+419,str. Imparat Traian nr. 33 A (J 9),11
+420,str. Imparat Traian nr. 33 B (J 10),11
+421,str. Imparat Traian nr. 35 A (J 11),11
+422,str. Imparat Traian nr. 35 C (J 13),11
+423,str. Izvoarelor nr. 5 B (J 16),11
+424,str. Izvoarelor nr. 5 A (J 17),11
+425,str. Octav Onicescu nr. 55 A (I 8)-( bs ),11
+426,str. Al. G-ral. Ghe. Avramescu nr. 30 C (N 3),11
+427,str. Al. G-ral. Ghe. Avramescu nr. 30 D (N 4),11
+428,str. Izvoarelor nr. 3 C (N 6),11
+429,str. Izvoarelor nr. 3 B (N 7),11
+430,str. Izvoarelor nr. 3 A (N 8),11
+431,str. Imparat Traian nr. 35 B (J 12),11
+432,str. Al. G-ral. Ghe. Avramescu nr. 29 sc. B (I 9),11
+433,str. Calea Nationala nr. 77 B,11
+434,str. Imparat Traian nr. 32 (I 6),11
+435,str. Octav Onicescu nr. 55 B (I 8),11
+436,str. Octav Onicescu nr. 55 A (I 8),11
+437,str. Imparat Traian nr. 30 B (I 5),11
+438,str. Imparat Traian nr. 31 (J 6),11
+439,str. Izvoarelor nr.7 B (J 14),11
+440,str. Izvoarelor nr. 7 A (J 15),11
+441,str. Imparat Traian nr. 29 B (J10),11
+442,str. Imparat Traian nr. 29 A (J 9),11
+443,str. Al. G-ral. Ghe. Avramescu nr. 33 B (K 11),11
+444,str. Al. G-ral. Ghe. Avramescu nr. 30 A (N 1),11
+445,str. Calea Nationala nr. 79 B (11 B),11
+446,str. Calea Nationala nr. 87 A (13 A),11
+447,str. Al. G-ral. Ghe. Avramescu nr. 28 A (M 4),11
+448,str. Al. G-ral. Ghe. Avramescu nr. 28 B (M 5),11
+449,str. Al. G-ral. Ghe. Avramescu nr. 28 D (M 7),11
+450,str. Al. G-ral. Ghe. Avramescu nr. 28 E (M 8),11
+451,str. Calea Nationala nr. 87 C (13 C),11
+452,str. Calea Nationala nr. 79 C (11 C),11
+453,str. Imparat Traian nr. 44 C (P 10),12
+454,str. Aleea Decebal nr. 1 B (R 5),12
+455,str. Aleea Decebal nr. 1 A (R 6),12
+456,str. Aleea Decebal nr. 2 C (S 3),12
+457,str. Aleea Grivita nr. 2 B (R 2),12
+458,str. Calea Nationala nr. 97 A,12
+459,str. Calea Nationala nr. 97 B,12
+460,str. Aleea Grivita nr. 10 B (Z 23),12
+461,str. Grivita nr. 3 A (12D),12
+462,str. Dreptatii nr. 8 A (T 7),12
+463,str. Barbu Lazareanu nr. 9 B (T 2),12
+464,str. Barbu Lazareanu nr. 9 C (T 1),12
+465,str. Barbu Lazareanu nr. 19 (T 12),12
+466,str. Imparat Traian nr. 37 A (U5),12
+467,str. Imparat Traian nr. 39 C (U10),12
+468,str. Dreptatii nr. 8 C (T9 ),12
+469,str. Imparat Traian nr. 41 A (U11),12
+470,str. Imparat Traian nr. 50 A (T10),12
+471,str. Imparat Traian nr. 41 B (U12),12
+472,str. Imparat Traian nr. 50 B (T11),12
+473,str. Imparat Traian nr. 41 C (U13),12
+474,str. Imparat Traian nr. 41 D (U14),12
+475,str. Imparat Traian nr. 43 A (U15),12
+476,str. Imparat Traian nr. 43 B (U16),12
+477,str. Imparat Traian nr. 43 C (U17),12
+478,str. Imparat Traian nr. 37 B (U6),12
+479,str. Imparat Traian nr. 37 C (U7),12
+480,str. Imparat Traian nr. 39 A (U8),12
+481,str. Imparat Traian nr. 39 B (U9),12
+482,str. Aleea Grivita nr. 2 (R 1),12
+483,str. Barbu Lazareanu nr. 16 (DO),12
+484,str. Grivita nr. 1 C (bs),12
+485,str. Grivita nr. 1 A (14 A),12
+486,str. Imparat Traian nr. 46 A (P 11),12
+487,str. Imparat Traian nr. 46 B (P 12),12
+488,str. Imparat Traian nr. 48 A (P 13),12
+489,str. Imparat Traian nr. 48 B (P 14),12
+490,str. Imparat Traian nr. 48 C (P 15),12
+491,str. Aleea Grivita nr. 1 C (P 2),12
+492,str. Aleea Grivita nr. 1 B (P 3),12
+493,str. Aleea Grivita nr. 1 A (P 4),12
+494,str. Izvoarelor nr. 4 A (P 5),12
+495,str. Izvoarelor nr. 4 B (P 6),12
+496,str. Izvoarelor nr. 4 C (P 7),12
+497,str. Imparat Traian nr. 44 A (P 8),12
+498,str. Imparat Traian nr. 44 B (P 9),12
+499,str. Aleea Grivita nr. 2A (R 3),12
+500,str. Aleea Decebal nr. 3 (R 4) (DO),12
+501,str. Aleea Decebal nr. 2 A (S 1),12
+502,str. Aleea Decebal nr. 2 B (S 2),12
+503,str. Aleea Grivita nr. 4 (S 4),12
+504,str. Aleea Grivita nr. 6 A (S 5),12
+505,str. Aleea Grivita nr. 6 B (S 6),12
+506,str. Aleea Grivita nr. 3 B (T 4),12
+507,str. Grivita nr. 3 B (15 A),12
+508,str. Grivita nr. 3 C (15 B),12
+509,str. Calea Nationala nr. 97 C,12
+510,str. Calea Nationala nr. 97 D,12
+511,str. Dreptatii nr. 1 A (S 10),12
+512,str. Dreptatii nr. 1 D (S 7),12
+513,str. Dreptatii nr. 1 C (S 8),12
+514,str. Dreptatii nr. 1 B (S 9),12
+515,str. Barbu Lazareanu nr. 9 A (T 3),12
+516,str. Aleea Grivita nr. 3 A (T 5),12
+517,str. Dreptatii nr. 6 (T 6),12
+518,str. Dreptatii nr. 8 B (T 8),12
+519,str. Grivita nr. 7 C (Z 14),12
+520,str. Grivita nr. 7 B (Z 15),12
+521,str. Grivita nr. 7 A (Z 16),12
+522,str. Grivita nr. 5 (Z 17),12
+523,str. Dreptatii nr. 2 (Z 18),12
+524,str. Dreptatii nr. 4 A (Z 19),12
+525,str. Dreptatii nr. 4 B (Z 20),12
+526,str. Aleea Grivita nr. 8 (Z 21),12
+527,str. Aleea Grivita nr. 10 A (Z 22),12
+528,str. Aleea Grivita nr. 10 C (Z 24),12
+529,str. Grivita nr. 1 B (14 B),12
+530,str. Grivita nr. 1 C (14 C),12
+531,str. Grivita nr. 1 D (14 D),12
+532,str. Grivita nr. 1 E (14 E),12
+533,str. Grivita nr. 1 F (14 F),12
+534,str. Aleea Grivita nr. 7 B (V 14),13
+535,str. Aleea Grivita nr. 7 A (V 15),13
+536,str. T. Vladimirescu nr. 4 D (Z 5),13
+537,str. T. Vladimirescu nr. 4 E (Z 6),13
+538,str. T. Vladimirescu nr. 6 A (Z 6/1),13
+539,str. T. Vladimirescu nr. 6 B (Z 6/2),13
+540,str. T. Vladimirescu nr. 4 B (Z 3),13
+541,str. T. Vladimirescu nr. 4 C (Z 4),13
+542,str. Grivita nr. 9 A (Z 1/1),13
+543,str. Grivita nr. 9 B (Z 1/2),13
+544,str. T. Vladimirescu nr. 4 A (Z 2),13
+545,str. Grivita nr. 13 C (Z 7),13
+546,str. Grivita nr. 13 B (Z 8),13
+547,str. Grivita nr. 13 A (Z 9),13
+548,str. Grivita nr. 11 D (Z 10),13
+549,str. Grivita nr. 11 C (Z 11),13
+550,str. Grivita nr. 11 B (Z 12),13
+551,str. Grivita nr. 11 A (Z 13),13
+552,str. Aleea Grivita nr. 18 (Z 1),13
+553,str. Aleea Grivita nr. 18 CASA CHIRIAC,13
+554,str. Imparat Traian nr. 45 B (U19),13
+555,str. Imparat Traian nr. 45 C (U20),13
+556,str. Imparat Traian nr. 49 A (U22),13
+557,str. Imparat Traian nr. 49 B (U23),13
+558,str. Imparat Traian nr. 49 C (U24),13
+559,str. T. Vladimirescu nr. 2 A (V9),13
+560,str. T. Vladimirescu nr. 2 B (V10),13
+561,str. Aleea Grivita nr. 9 A (V13),13
+562,str. Aleea Grivita nr. 9 B (V12),13
+563,str. Barbu Lazareanu nr. 12 B (V2),13
+564,str. Barbu Lazareanu nr. 12 A (V1),13
+565,str. Barbu Lazareanu nr. 12 C (V3),13
+566,str. Imparat Traian nr. 52 (V4),13
+567,str. Imparat Traian nr. 54 A (V5),13
+568,str. Imparat Traian nr. 54 B (V6),13
+569,str. Imparat Traian nr. 54 C (V7),13
+570,str. Imparat Traian nr. 56 (V8),13
+571,str. Imparat Traian nr. 45 A (U18),13
+572,str. Alexandru Donici nr. 1 A (Y 21),14
+573,str. Alexandru Donici nr. 6 B (W 14),14
+574,str. Parcul Tineretului nr. 3 A (W 24),14
+575,str. Imparat Traian nr. 68 C (W 18),14
+576,str. Alexandru Donici nr. 1 D (Y 24),14
+577,str. Vilcele nr. 7A (Y 10),14
+578,str. Vilcele nr. 1B (Y 12),14
+579,str. Vilcele nr. 15 (X 5),14
+580,str. Vilcele nr. 13 A (X 7),14
+581,str. Alexandru Donici nr. 1 B (Y 22),14
+582,str. Aleea Grivita nr. 17 A (X 15),14
+583,str. Aleea Grivita nr. 17 B (X 16),14
+584,str. Alexandru Donici nr. 3 A (X 17),14
+585,str. Alexandru Donici nr. 3 B (X 18),14
+586,str. Imparat Traian nr. 66 C (X 19),14
+587,str. Imparat Traian nr. 66 B (X 20),14
+588,str. Imparat Traian nr. 66 A (X 21),14
+589,str. Alexandru Donici nr. 1 C (Y 23),14
+590,str. Alexandru Donici nr. 1 E (Y 25),14
+591,str. Aleea Grivita nr. 24 D (Y 26)-DO,14
+592,str. Vilcele nr. 3 (Y 11),14
+593,str. Vilcele nr. 1A (Y 13),14
+594,str. Aleea Grivita nr. 22 B (Y 14),14
+595,str. Aleea Grivita nr. 22 A (Y 15),14
+596,str. Vilcele nr. 4C (Y 16),14
+597,str. Vilcele nr. 4B (Y 17),14
+598,str. Vilcele nr. 4A (Y 18),14
+599,str. T. Vladimirescu nr. 1 B (X 2),14
+600,str. Imparat Traian nr. 58 (X 4),14
+601,str. Vilcele nr. 13 B (X 6),14
+602,str. Aleea Grivita nr. 13 B (X 8),14
+603,str. Aleea Grivita nr. 13 A (X 9),14
+604,str. Imparat Traian nr. 60 A (X 10),14
+605,str. Vilcele nr. 6C (X 11),14
+606,str. Vilcele nr. 6B (X 12),14
+607,str. Vilcele nr. 6A (X 13),14
+608,str. Aleea Grivita nr. 15 (X 14),14
+609,str. T. Vladimirescu nr. 5 D (Y 2),14
+610,str. T. Vladimirescu nr. 5 C (Y 3),14
+611,str. T. Vladimirescu nr. 5 A (Y 5),14
+612,str. Vilcele nr. 11 (Y 7),14
+613,str. Vilcele nr. 7B (Y 9),14
+614,str. Imparat Traian nr. 68 B (W 17),14
+615,str. Aleea Grivita nr. 24 C (Y 27),14
+616,str. Aleea Grivita nr. 24 B (Y 28),14
+617,str. Aleea Grivita nr. 24 A (Y 29),14
+618,str. Vilcele nr. 2A (Y 19),14
+619,str. Vilcele nr. 2B (Y 20),14
+620,str. Parcul Tineretului nr. 6 A (W 1),14
+621,str. Parcul Tineretului nr. 6 B (W 2),14
+622,str. Parcul Tineretului nr. 6 C (W 3),14
+623,str. Parcul Tineretului nr. 6 D (W 4),14
+624,str. Parcul Tineretului nr. 1 C (W 5),14
+625,str. Parcul Tineretului nr. 1 B (W 6),14
+626,str. Parcul Tineretului nr. 1 A (W 7),14
+627,str. Alexandru Donici nr. 2 A (W 8),14
+628,str. Alexandru Donici nr. 2 B (W 9),14
+629,str. Alexandru Donici nr. 2 C (W 10),14
+630,str. Alexandru Donici nr. 4 A (W 11),14
+631,str. Alexandru Donici nr. 4 B (W 12),14
+632,str. Alexandru Donici nr. 6 A (W 13),14
+633,str. Alexandru Donici nr. 6 C (W 15),14
+634,str. Imparat Traian nr. 68 A (W 16),14
+635,str. Imparat Traian nr. 68 D (W 19),14
+636,str. Al. P. Tineretului nr. 8 B (W 22),14
+637,str. Al. P. Tineretului nr. 8 A (W 23),14
+638,str. Parcul Tineretului nr. 3 C (W 26),14
+639,str. Imparat Traian nr. 60 C (X 22),14
+640,str. Imparat Traian nr. 60 B (X 23) (DO),14
+641,str. Aleea Grivita nr. 20 (Y 6),14
+642,str. T. Vladimirescu nr. 1 A (X 3),14
+643,str. T. Vladimirescu nr. 5 B (Y 4),14
+644,str. T. Vladimirescu nr. 5 E (Y 1),14
+645,str. Parcul Tineretului nr. 3 B (W 25),14
+646,str. Independentei nr. 9 C (B 11),15
+647,str. Aleea Calugareni nr. 3 sc. C (V 3),15
+648,str. Independentei nr. 9 A (B 13),15
+649,str. Independentei nr. 9 B (B 12),15
+650,str. Independentei nr. 5 E (B 5)-DO,15
+651,str. Independentei nr. 5 F (B 6),15
+652,str. Independentei nr. 9 F (B 8),15
+653,str. Independentei nr. 9 D (B 10),15
+654,str. Aleea Calugareni nr. 5 sc. A (S 1),15
+655,str. Aleea Calugareni nr. 5 sc. B (S 2),15
+656,str. Aleea Calugareni nr. 5 sc. C (S 3),15
+657,str. Aleea Calugareni nr. 5 sc. D (S 4),15
+658,str. Independentei nr. 3 B (A 2),15
+659,str. Independentei nr. 1 H (A 4),15
+660,str. Independentei nr. 1 G (A 5),15
+661,str. Independentei nr. 1 F (A 6),15
+662,str. Independentei nr. 1 E (A 7),15
+663,str. Independentei nr. 1 C (A 9),15
+664,str. Independentei nr. 1 B (A 10),15
+665,str. Independentei nr. 1 A (A 11),15
+666,str. Grivita nr. 2 A (A 12),15
+667,str. Grivita nr. 4 A (A 14),15
+668,str. Grivita nr. 4 B (A 15),15
+669,str. Grivita nr. 8 A (A 16),15
+670,str. Grivita nr. 8 B (A 17),15
+671,str. Aleea Calugareni nr. 1 sc. A (C 1),15
+672,str. Aleea Calugareni nr. 1 sc. B (C 2),15
+673,str. Aleea Calugareni nr. 1 sc. C (C 3),15
+674,str. Aleea Calugareni nr. 9 sc. A (C 4),15
+675,str. Aleea Calugareni nr. 9 sc. B (C 5),15
+676,str. Aleea Calugareni nr. 9 sc. C (C 6),15
+677,str. Aleea Calugareni nr. 9 sc. D (C 7),15
+678,str. Aleea Calugareni nr. 3 sc. A (V 1),15
+679,str. Aleea Calugareni nr. 3 sc. B (V 2),15
+680,str. Aleea Calugareni nr. 3 sc. D (V 4),15
+681,str. Grivita nr. 6 A (Z 27),15
+682,str. Grivita nr. 6 B (Z 28),15
+683,str. Independentei nr. 5 G (B 7),15
+684,str. Independentei nr. 9 E (B 9),15
+685,str. Aleea Calugareni nr. 9 sc. D (C 7)-( bs ),15
+686,str. Independentei nr. 5 A (B 1),15
+687,str. Independentei nr. 5 B (B 2),15
+688,str. Independentei nr. 5 C (B 3),15
+689,str. Independentei nr. 5 D (B 4),15
+690,str. Independentei nr. 3 A (A 1),15
+691,str. Independentei nr. 1 D (A 8),15
+692,str. Grivita nr. 2 B (A 13),15
+693,str. Calea Nationala nr. 12 D (G 10),37
+694,str. Calea Nationala nr. 12 A (G 11),37
+695,str. Calea Nationala nr. 12 C (G 9),37
+696,str. Calea Nationala nr. 12 B (PIB 88),37
+697,str. B-dul M. Eminescu nr. 8- sc. B,16
+698,str. Sucevei nr. 5 sc. D,16
+699,str. B-dul M. Eminescu nr. 8- sc. A,16
+700,str. Sucevei nr. 1 sc. A,16
+701,str. Sucevei nr. 1 sc. B,16
+702,str. Sucevei nr. 1 sc. D,16
+703,str. Sucevei nr. 1 sc. C,16
+704,str. Col. Tomoroveanu nr. 4 A,16
+705,str. Sucevei nr. 9 B,16
+706,str. Col. Tomoroveanu nr. 8 A,16
+707,str. Col. Tomoroveanu nr. 8 B,16
+708,str. Col. Tomoroveanu nr. 8 C,16
+709,str. Col. Tomoroveanu nr. 12 A,16
+710,str. Col. Tomoroveanu nr. 12 B,16
+711,str. Col. Tomoroveanu nr. 12 C,16
+712,str. Col. Tomoroveanu nr. 16 C,16
+713,str. Col. Tomoroveanu nr. 16 B,16
+714,str. Col. Tomoroveanu nr. 16 A,16
+715,str. Col. Tomoroveanu nr. 4 B,16
+716,str. Col. Tomoroveanu nr. 4 C,16
+717,str. Col. Tomoroveanu nr. 4 D,16
+718,str. Sucevei nr. 9 A (DO),16
+719,str. Sucevei nr. 7 A,16
+720,str. Sucevei nr. 7 B,16
+721,str. Sucevei nr. 7 C,16
+722,str. Sucevei nr. 5 sc. A,16
+723,str. Sucevei nr. 5 sc. B,16
+724,str. Sucevei nr. 5 sc. C,16
+725,str. Cuza Voda nr. 6 A (C1),17
+726,str. Aleea Unirii nr. 12 A (B2- A)-DO,17
+727,str. Aleea Unirii nr. 12 B (B2- B),17
+728,str. Cuza Voda nr. 8 A (C2),17
+729,str. Marchian nr. 4 A (A4),17
+730,str. Marchian nr. 6 A (A5),17
+731,str. Aleea Unirii nr. 2 C (B3- A),17
+732,str. Unirii nr. 7 B (A1- A),17
+733,str. Aleea Unirii nr. 2 B (B3- B),17
+734,str. Aleea Unirii nr. 2 A (B3- C),17
+735,str. Aleea Unirii nr. 5 B (B1- B),17
+736,str. Aleea Unirii nr. 5 C (B1- C),17
+737,str. Aleea Unirii nr. 12 C (B2- C),17
+738,str. Unirii nr. 7 A (A1- B),17
+739,str. Unirii nr. 5 A (A2- B),17
+740,str. Marchian nr. 4 B (A4),17
+741,str. Marchian nr. 6 B (A5),17
+742,str. Cuza Voda nr. 6 B (C1),17
+743,str. Cuza Voda nr. 10 (S4),17
+744,str. Aleea Unirii nr. 5 A (B1- A),17
+745,str. Cuza Voda nr. 8 B (C2),17
+746,str. Aleea Maxim Gorki nr. 4 (S6),17
+747,str. Unirii nr. 5 B (A2- A),17
+748,str. Aleea Unirii nr. 14 CASA STOICA,17
+749,str. Aleea Unirii nr. 14 Zamfir(casa),17
+750,str. Aleea Unirii nr. 14 Avasileni ( casa ),17
+751,str. Aleea Maxim Gorki nr. 12B (B4),18
+752,str. Aleea Maxim Gorki nr. 10B (B5),18
+753,str. Aleea Maxim Gorki nr. 17B (C4),18
+754,str. Unirii nr. 13 D (U11),18
+755,str. Unirii nr. 11 B (U7),18
+756,str. Marchian nr. 10A sc. B (B7),18
+757,str. Marchian nr. 14 B (A8),18
+758,str. Unirii nr. 13 B (U11),18
+759,str. B-dul M. Eminescu nr. 59 A,18
+760,str. B-dul M. Eminescu nr. 59 B,18
+761,str. B-dul M. Eminescu nr. 65,18
+762,str. Aleea Maxim Gorki nr. 11 (B12),18
+763,str. Marchian nr. 10 Turn,18
+764,str. Marchian nr. 10A sc. C (B7),18
+765,str. Marchian nr. 10A sc. A (B7),18
+766,str. Marchian nr. 12 A (A7),18
+767,str. Aleea Maxim Gorki nr. 1 (ZA-45)-DO,18
+768,str. Aleea Maxim Gorki nr. 15 A (A6),18
+769,str. Aleea Maxim Gorki nr. 10 C (B5),18
+770,str. Aleea Maxim Gorki nr. 8 A (D28),18
+771,str. Aleea Maxim Gorki nr. 8 B (D28),18
+772,str. Aleea Maxim Gorki nr. 17 A (C4),18
+773,str. Aleea Maxim Gorki nr. 10 A (B5),18
+774,str. Aleea Maxim Gorki nr. 12 A (B4),18
+775,str. Aleea Maxim Gorki nr. 12 C (B4),18
+776,str. Unirii nr. 13 A (U11),18
+777,str. Unirii nr. 13 C (U11),18
+778,str. Aleea Unirii nr. 1 (S1),18
+779,str. Aleea Unirii nr. 6 (S2),18
+780,str. Aleea Unirii nr. 8 (S3),18
+781,str. Unirii nr. 11 A (U7),18
+782,str. Aleea Maxim Gorki nr. 5 (S7),18
+783,str. Aleea Maxim Gorki nr. 7 (S8),18
+784,str. Marchian nr. 14 A (A8),18
+785,str. Marchian nr. 12 B (A7),18
+786,str. Aleea Maxim Gorki nr. 15B (A6),18
+787,str. Calea Nationala nr. 111 A (P5),19
+788,str. Calea Nationala nr. 107 C (O2),19
+789,str. Calea Nationala nr. 107 B (O3),19
+790,str. Dimitrie Negreanu nr. 1 A (G2),19
+791,str. Dimitrie Negreanu nr. 1 B (G3),19
+792,str. Dimitrie Negreanu nr. 1 C (G4),19
+793,str. Ion Pillat nr. 2 D (H3),19
+794,str. Ion Pillat nr. 2 C (H4),19
+795,str. Ion Pillat nr. 2 A (H6),19
+796,str. Ion Pillat nr. 2 B (H5),19
+797,str. Pod de Piatra nr. 1 (H7),19
+798,str. Ion Pillat nr. 4 D (E1),19
+799,str. Ion Pillat nr. 4 C (E2),19
+800,str. Ion Pillat nr. 4 B (E3),19
+801,str. Ion Pillat nr. 4 A (E4),19
+802,str. Armeana nr. 1 B (E6),19
+803,str. Pod de Piatra nr. 19 (P1),19
+804,str. Dimitrie Negreanu nr. 2 A (F4),19
+805,str. Dimitrie Negreanu nr. 2 C (P4),19
+806,str. Calea Nationala nr. 111 B (P6),19
+807,str. Calea Nationala nr. 109 (O7),19
+808,str. Dimitrie Negreanu nr. 8 B (C3),19
+809,str. Dimitrie Negreanu nr. 6 B (C6),19
+810,str. Victoriei nr. 18 (D1),19
+811,str. Dimitrie Negreanu nr. 3 A (D8),19
+812,str. Dimitrie Negreanu nr. 3 B (D9),19
+813,str. Dimitrie Negreanu nr. 6 C (C5),19
+814,str. Ion Pillat nr. 6B (D4),19
+815,str. Ion Pillat nr. 6C (D3),19
+816,str. Dimitrie Negreanu nr. 8 A (C4),19
+817,str. Armeana nr. 4 A (H2),19
+818,str. Armeana nr. 4 B (H1),19
+819,str. Dimitrie Negreanu nr. 2 B (F3),19
+820,str. Armeana nr. 1 A (E5),19
+821,str. Armeana nr. 1 D (E8),19
+822,str. Armeana nr. 1 C (E7),19
+823,str. Dimitrie Negreanu nr. 6 A (C7),19
+824,str. Ion Pillat nr. 6 A (D5),19
+825,str. Razboieni nr. 1 (D6),19
+826,str. Dimitrie Negreanu nr. 3 C (D10),19
+827,str. Dimitrie Negreanu nr. 3 D (D11),19
+828,str. Calea Nationala nr. 107 A (O4),19
+829,str. Stefan Luchian nr. 16 CASA RISTARIU,2
+830,str. Stefan Luchian nr. 40 CASA POLEAC,2
+831,str. Stefan Luchian nr. 44 CASA FECIORU,2
+832,str. Stefan Luchian nr. 44 CASA BELINSCHI,2
+833,str. Stefan Luchian CASA PETRUSCA,2
+834,str. Stefan Luchian nr. 40 Casa Curelaru,2
+835,str. Aleea Crizantemelor nr. 3,2
+836,str. Stefan Luchian nr. 34,2
+837,str. Octav Onicescu nr. 60 sc. A,2
+838,str. Octav Onicescu nr. 60 sc. B,2
+839,str. Aleea Crizantemelor nr. 6,2
+840,str. Aleea Crizantemelor nr. 1,2
+841,str. Aleea Crizantemelor nr. 2 A,2
+842,str. Aleea Crizantemelor nr. 2 B,2
+843,str. Aleea Crizantemelor nr. 5,2
+844,str. Aleea Rapsodiei nr. 4,2
+845,str. Aleea Rapsodiei nr. 10 (L 10),2
+846,str. Aleea Crizantemelor nr. 4A,2
+847,str. Aleea Rapsodiei nr. 14,2
+848,str. Aleea Rapsodiei nr. 12 A,2
+849,str. Aleea Rapsodiei nr. 12 B,2
+850,str. Aleea Crizantemelor nr. 4 B,2
+851,str. Stefan Luchian nr. 32,2
+852,str. Stefan Luchian nr. 21 A,2
+853,str. Stefan Luchian nr. 21 B,2
+854,str. Stefan Luchian nr. 21 C,2
+855,str. Stefan Luchian nr. 46 A,2
+856,str. Stefan Luchian nr. 46 B,2
+857,str. Stefan Luchian nr. 46 C,2
+858,str. Aleea Rapsodiei nr. 2 (Turn 4),2
+859,str. Unirii nr. 8 (Turn 12),2
+860,str. B-dul M. Eminescu nr. 45,3
+861,str. Aleea Pictorului nr. 6,3
+862,str. Aleea Pictorului nr. 3,3
+863,str. Aleea Pictorului nr. 5,3
+864,str. Aleea Pictorului nr. 2,3
+865,str. B-dul M. Eminescu nr. 53 B,3
+866,str. Octav Onicescu nr. 52 B,3
+867,str. Octav Onicescu nr. 46 B,3
+868,str. B-dul M. Eminescu nr. 51,3
+869,str. B-dul M. Eminescu nr. 53 A,3
+870,str. Octav Onicescu nr. 46 A,3
+871,str. Octav Onicescu nr. 48,3
+872,str. Octav Onicescu nr. 52 A,3
+873,str. Octav Onicescu nr. 50 B,3
+874,str. Octav Onicescu nr. 52 C,3
+875,str. Aleea Pictorului nr. 1,3
+876,str. Aleea Pictorului nr. 4,3
+877,str. Octav Onicescu nr. 50 A,3
+878,str. B-dul M. Eminescu nr. 49,3
+879,str. Aleea Arcului nr. 6*,4
+880,str. Aleea Arcului nr. 2 B,4
+881,str. Aleea Arcului nr. 4 B,4
+882,str. Aleea Arcului nr. 3,4
+883,str. Aleea Arcului nr. 4 A,4
+884,str. Aleea Arcului nr. 5,4
+885,str. Aleea Arcului nr. 7 A,4
+886,str. Aleea Arcului nr. 7 B,4
+887,str. Aleea Arcului nr. 2 A,4
+888,str. Aleea Arcului nr. 1,4
+889,str. Armoniei nr. 11,4
+890,str. Armoniei nr. 13 A,4
+891,str. Armoniei nr. 21 A,4
+892,str. Armoniei nr. 21 B,4
+893,str. Armoniei nr. 13 B,4
+894,str. B-dul M. Eminescu nr. 43 A,4
+895,str. Stefan Luchian nr. 5 sc. B,4
+896,str. B-dul M. Eminescu nr. 43 B,4
+897,str. Armoniei nr. 3 DONISAN,4
+898,str. Armoniei nr. 7 BALTAG,4
+899,str. B-dul M. Eminescu nr. 43 C,4
+900,str. Octav Bancila nr. 9 sc. A (R 8),4
+901,str. Octav Bancila nr. 5 sc. B (R9),4
+902,str. Octav Bancila nr. 17 (I 6),4
+903,str. Octav Bancila nr. 5 sc. A (R9),4
+904,str. Octav Bancila nr. 5 sc. C (R9),4
+905,str. Octav Bancila nr. 13 (R 7),4
+906,str. Octav Bancila nr. 9 sc. B (R 8),4
+907,str. Octav Bancila nr. 1 sc. A (R10),4
+908,str. Octav Bancila nr. 1 sc. B (R10),4
+909,str. Octav Bancila nr. 1 sc. C (R10),4
+910,str. Octav Onicescu nr. 45 C (I 5),4
+911,str. Octav Onicescu nr. 45 A (I 5),4
+912,str. Octav Onicescu nr. 45 B (I 5),4
+913,str. Stefan Luchian nr. 14 (M 4),4
+914,str. Stefan Luchian nr. 28 sc. B (I18),4
+915,str. Stefan Luchian nr. 24 A (M12),4
+916,str. Stefan Luchian nr. 28 sc. A (D18),4
+917,str. Stefan Luchian nr. 20 sc. C (DO),4
+918,str. Stefan Luchian nr. 20 sc. B,4
+919,str. Stefan Luchian nr. 30 sc. B,4
+920,str. Stefan Luchian nr. 30 sc. A,4
+921,str. Stefan Luchian nr.5 sc. A,4
+922,str. Stefan Luchian nr. 18,4
+923,str. Stefan Luchian nr. 20 sc. A,4
+924,str. Stefan Luchian nr. 24 B (M12),4
+925,str. Savenilor nr. 48 A (G 12),23
+926,str. Al. P. Tineretului nr. 5 (100G),23
+927,str. Parcul Tineretului nr. 18 A (I 3),23
+928,str. Parcul Tineretului nr. 14 (140 G),23
+929,str. Al.slt.I.Elefterescu nr. 14 CASA DELL`ORSO,23
+930,str. Parcul Tineretului nr. 8 SCA CONF,23
+931,str. Al.slt.I.Elefterescu nr. 15 sc. B (B 13),23
+932,str. Al.slt.I.Elefterescu nr. 15 sc. C (B 14),23
+933,str. Al.slt.I.Elefterescu nr. 1 (B 18),23
+934,str. Parcul Tineretului nr. 11 (B 52),23
+935,str. Parcul Tineretului nr. 13 (B 54),23
+936,str. Parcul Tineretului nr.16 sc. A (D 1),23
+937,str. Parcul Tineretului nr. 16 sc. B (D 2),23
+938,str. Parcul Tineretului nr. 18 B (I 4),23
+939,str. Parcul Tineretului nr. 20 A (I 5),23
+940,str. Parcul Tineretului nr. 20 B (I 6),23
+941,str. Savenilor nr. 29 D (H 16),23
+942,str. Savenilor nr. 29 C (H 17),23
+943,str. Savenilor nr. 29 B (H 2),23
+944,str. Savenilor nr. 29 A (H 3),23
+945,str. Al. P. Tineretului nr. 6 sc. A (B 1),23
+946,str. Al. P. Tineretului nr. 6 sc. B (B 2),23
+947,str. Al. P. Tineretului nr. 6 sc. C (B 3),23
+948,str. Al. P. Tineretului nr. 6 sc. D (B 4),23
+949,str. Al. P. Tineretului nr. 6 sc. E (B 5),23
+950,str. Al. P. Tineretului nr. 2 sc. F (B 6),23
+951,str. Al. P. Tineretului nr. 2 sc. D (B 7),23
+952,str. Al. P. Tineretului nr. 2 sc. B (B 8),23
+953,str. Al. P. Tineretului nr. 2 sc. E (B 9),23
+954,str. Al. P. Tineretului nr. 2 sc. C (B 10),23
+955,str. Al. P. Tineretului nr. 2 sc. A (B 11),23
+956,str. Savenilor nr. 50 A (G 16),23
+957,str. Savenilor nr. 50 B (G 17),23
+958,str. Savenilor nr. 52 (G 19),23
+959,str. Parcul Tineretului nr. 12 sc. B (B 16),23
+960,str. Al. P. Tineretului nr. 3 sc. A (B 19),23
+961,str. Al. P. Tineretului nr. 3 sc. B (B 20),23
+962,str. Al. P. Tineretului nr. 3 sc. C (B 21),23
+963,str. Al. P. Tineretului nr. 3 sc. D (B 22),23
+964,str. Al. P. Tineretului nr. 11 sc. A (B 23),23
+965,str. Al. P. Tineretului nr. 11 sc. B (B 24),23
+966,str. Al. P. Tineretului nr. 11 sc. C (B 25),23
+967,str. Al. P. Tineretului nr. 11 sc. D (B 26),23
+968,str. Al. P. Tineretului nr. 7 (PTTR),23
+969,str. Parcul Tineretului nr. 10 (G 39),23
+970,str. Al. P. Tineretului nr. 9 (K 39),23
+971,str. Al. P. Tineretului nr. 1 (TURN),23
+972,str. Savenilor nr. 27 D (H 4 B),23
+973,str. Savenilor nr. 27 E (H 4 A),23
+974,str. Savenilor nr. 27 C (H 5),23
+975,str. Savenilor nr. 27 B (H 6),23
+976,str. Savenilor nr. 27 A (H 7),23
+977,str. Savenilor nr. 48 B (G 13),23
+978,str. Savenilor nr. 48 C (G 14),23
+979,str. Savenilor nr. 48 D (G 15),23
+980,str. Al.slt.I.Elefterescu nr. 16 (G 135),23
+981,str. Al.slt.I.Elefterescu nr. 15 sc. A (B 12),23
+982,str. Parcul Tineretului nr. 12 sc. A (B 15),23
+983,str. Pacea nr. 51 B,20
+984,str. Pacea nr. 53 A,20
+985,str. Pacea nr. 53 B,20
+986,str. Pacea nr. 53 C,20
+987,str. Pacea nr. 53 F,20
+988,str. Aleea Curcubeului nr. 15 sc. E,20
+989,str. Aleea Curcubeului nr. 15 sc. D,20
+990,str. Aleea Curcubeului nr. 15 sc. C,20
+991,str. Aleea Curcubeului nr.  15 sc. B,20
+992,str. Aleea Curcubeului nr. 15 sc. A,20
+993,str. Octav Onicescu nr. 4A,20
+994,str. Octav Onicescu nr. 2 sc. B,20
+995,str. Octav Onicescu nr. 2 sc. A,20
+996,str. Pacea nr. 53 E,20
+997,str. Pacea nr. 51 A,20
+998,str. Pacea nr. 53 D,20
+999,str. Aleea Cinema nr. 2 A,20
+1000,str. Aleea Curcubeului nr. 6 sc.A,20
+1001,str. Octav Onicescu nr. 4E (DO),20
+1002,str. Aleea Cinema nr. 4 A,20
+1003,str. Aleea Cinema nr. 2 C,20
+1004,str. Primaverii nr. 22 sc.A,20
+1005,str. Primaverii nr. 24 sc.B,20
+1006,str. Primaverii nr. 24 sc.A,20
+1007,str. Primaverii nr. 24 sc.C,20
+1008,str. Aleea Cinema nr. 6 C,20
+1009,str. Aleea Cinema nr. 6 A (DO),20
+1010,str. Aleea Cinema nr. 6 B (DO),20
+1011,str. Aleea Curcubeului nr. 6 sc.B,20
+1012,str. Aleea Cinema nr. 4 B,20
+1013,str. Aleea Cinema nr. 4 C,20
+1014,str. Aleea Cinema nr. 2 B,20
+1015,str. Aleea Cinema nr. 2 D,20
+1016,str. Aleea Cinema nr. 2 E,20
+1017,str. Octav Onicescu nr. 4 D,20
+1018,str. Octav Onicescu nr. 4 C,20
+1019,str. Octav Onicescu nr. 4 B,20
+1020,str. Primaverii nr. 18 sc.A,20
+1021,str. Primaverii nr. 18 sc.B,20
+1022,str. Primaverii nr. 18 sc.C,20
+1023,str. Primaverii nr. 22 sc.B,20
+1024,str. Primaverii nr. 22 sc.C,20
+1025,str. Primaverii nr. 22 sc.D,20
+1026,str. Aleea Curcubeului nr. 11 sc. A ( bs ),21
+1027,str. B-dul. G. Enescu nr. 28 C,21
+1028,str. Pacea nr. 63,21
+1029,str. Aleea Pacea nr. 3 C,21
+1030,str. Aleea Pacea nr. 3 B,21
+1031,str. Aleea Pacea nr. 3 A,21
+1032,str. Pacea nr. 57 B,21
+1033,str. Pacea nr. 57 A,21
+1034,str. Aleea Pacea nr. 2 A,21
+1035,str. Aleea Pacea nr. 2 B,21
+1036,str. Aleea Pacea nr. 2 C,21
+1037,str. Aleea Pacea nr. 2 D,21
+1038,str. Aleea Pacea nr. 2 E,21
+1039,str. Aleea Pacea nr. 2 F,21
+1040,str. Aleea Pacea nr. 2 G,21
+1041,str. Pacea nr. 59 A,21
+1042,str. Pacea nr. 59 B,21
+1043,str. Pacea nr. 59 C,21
+1044,str. Pacea nr. 59 D,21
+1045,str. Pacea nr. 61 B,21
+1046,str. Pacea nr. 61 A,21
+1047,str. Pacea nr. 65 A,21
+1048,str. Pacea nr. 65 B,21
+1049,str. Pacea nr. 65 C,21
+1050,str. B-dul. G. Enescu nr. 28 B,21
+1051,str. B-dul. G. Enescu nr. 28 A,21
+1052,str. Aleea Pacea nr. 5 C,21
+1053,str. Aleea Pacea nr. 5 A,21
+1054,str. Aleea Pacea nr. 5 B,21
+1055,str. Aleea Curcubeului nr. 11 C,21
+1056,str. Aleea Curcubeului nr. 9 B,21
+1057,str. Aleea Curcubeului nr. 9 A,21
+1058,str. Aleea Curcubeului nr. 5 A,21
+1059,str. Aleea Curcubeului nr. 5 B,21
+1060,str. Aleea Curcubeului nr. 5 C (DO),21
+1061,str. Aleea Curcubeului nr. 5 D,21
+1062,str. Aleea Curcubeului nr. 5 E - (DO),21
+1063,str. Aleea Curcubeului nr. 7 C,21
+1064,str. Aleea Curcubeului nr. 7 B,21
+1065,str. Aleea Curcubeului nr. 3 A,21
+1066,str. B-dul. G. Enescu nr. 26 B,21
+1067,str. B-dul. G. Enescu nr. 26 A,21
+1068,str. Aleea Curcubeului nr. 1 sc.A,21
+1069,str. Aleea Curcubeului nr. 1 sc.B,21
+1070,str. Aleea Curcubeului nr. 1 sc.C,21
+1071,str. Aleea Curcubeului nr. 1 sc.E,21
+1072,str. Aleea Curcubeului nr. 1 sc.D,21
+1073,str. Primaverii nr. 26 sc.B,21
+1074,str. Primaverii nr. 26 sc.C,21
+1075,str. Primaverii nr. 26 sc.D,21
+1076,str. Primaverii nr. 26 sc.A,21
+1077,str. Primaverii nr. 26 sc.E,21
+1078,str. Aleea Pacea nr. 1 A,21
+1079,str. Aleea Pacea nr. 1 C,21
+1080,str. Aleea Pacea nr. 1 B (DO),21
+1081,str. Aleea Curcubeului nr. 13 E,21
+1082,str. Aleea Curcubeului nr. 13 D,21
+1083,str. Aleea Curcubeului nr. 13 C,21
+1084,str. Aleea Curcubeului nr. 13 B,21
+1085,str. Aleea Curcubeului nr. 13 A,21
+1086,str. Aleea Curcubeului nr. 11 E,21
+1087,str. Aleea Curcubeului nr. 11 D,21
+1088,str. Aleea Curcubeului nr. 11 B,21
+1089,str. Aleea Curcubeului nr. 11 A,21
+1090,str. Aleea Curcubeului nr. 9 C,21
+1091,str. Aleea Curcubeului nr. 7 A,21
+1092,str. Aleea Curcubeului nr. 3 C,21
+1093,str. Aleea Curcubeului nr. 3 B,21
+1094,str. Pacea nr. 55 A,21
+1095,str. Pacea nr. 55 B,21
+1096,str. Pacea nr. 55 C,21
+1097,str. Pacea nr. 55 D,21
+1098,str. Pacea nr. 55 E,21
+1099,str. B-dul. G. Enescu nr. 28 D,21
+1100,str. B-dul. G. Enescu nr. 28 E,21
+1101,str. B-dul. G. Enescu nr. 22 sc. B,21
+1102,str. B-dul. G. Enescu nr. 24 scE,21
+1103,str. B-dul. G. Enescu nr. 24 scD,21
+1104,str. B-dul. G. Enescu nr. 24 scC,21
+1105,str. B-dul. G. Enescu nr. 24 scB,21
+1106,str. B-dul. G. Enescu nr. 24 sc.A,21
+1107,str. B-dul. G. Enescu nr. 22 sc. A,21
+1108,str. B-dul. G. Enescu nr. 24 sc.F,21
+1109,str. B-dul. G. Enescu nr. 12 B,22
+1110,str. Varnav nr. 40 B,22
+1111,str. Varnav nr. 40 A,22
+1112,str. Dimitrie Brandza nr. 2 C,22
+1113,str. Dimitrie Brandza nr. 2 A,22
+1114,str. Dimitrie Brandza nr. 2 B,22
+1115,str. Dimitrie Brandza nr. 2 E,22
+1116,str. Primaverii nr. 21 sc. A,22
+1117,str. Primaverii nr. 21 sc. C,22
+1118,str. Primaverii nr. 21 sc. D,22
+1119,str. Primaverii nr. 21 sc. E,22
+1120,str. Primaverii nr. 21 sc. F,22
+1121,str. Primaverii nr. 21 sc. G,22
+1122,str. Primaverii nr. 23 sc. A,22
+1123,str. Primaverii nr. 25 sc. A,22
+1124,str. Al. Scipione Badescu nr. 1 sc.C,22
+1125,str. Al. Scipione Badescu nr. 1 sc.E,22
+1126,str. Primaverii nr. 19 sc. G,22
+1127,str. Primaverii nr. 21 sc. B,22
+1128,str. Al. Scipione Badescu nr. 3sc.A,22
+1129,str. Al. Scipione Badescu nr. 3sc.B,22
+1130,str. Al. Scipione Badescu nr. 1 sc.B,22
+1131,str. Al. Scipione Badescu nr. 1 sc.D,22
+1132,str. Primaverii nr. 19 sc. F,22
+1133,str. Primaverii nr. 19 sc. A,22
+1134,str. Primaverii nr. 19 sc. B,22
+1135,str. Primaverii nr. 19 sc. C,22
+1136,str. Primaverii nr. 19 sc. D,22
+1137,str. Primaverii nr. 19 sc. E,22
+1138,str. B-dul. G. Enescu nr. 14B,22
+1139,str. B-dul. G. Enescu nr. 16A,22
+1140,str. Dimitrie Brandza nr. 1 sc.A,22
+1141,str. Dimitrie Brandza nr. 1 sc.B,22
+1142,str. Dimitrie Brandza nr. 1 sc.C (DO),22
+1143,str. Dimitrie Brandza nr. 1 sc.D,22
+1144,str. B-dul. G. Enescu nr. 18 B,22
+1145,str. B-dul. G. Enescu nr. 18 A,22
+1146,str. B-dul. G. Enescu nr. 20 B,22
+1147,str. B-dul. G. Enescu nr. 20 A,22
+1148,str. Primaverii nr. 23 B,22
+1149,str. Primaverii nr. 23 C,22
+1150,str. Al. Scipione Badescu nr. 1 sc.A,22
+1151,str. Al. Scipione Badescu nr. 3sc.A - ( bs ),22
+1152,str. Primaverii nr. 25 C,22
+1153,str. Primaverii nr. 25 B,22
+1154,str. B-dul. G. Enescu nr. 14 A,22
+1155,str. Varnav nr. 36 F,22
+1156,str. Varnav nr. 36 E,22
+1157,str. Varnav nr. 36 D,22
+1158,str. Varnav nr. 36 C,22
+1159,str. Varnav nr. 36 B,22
+1160,str. Varnav nr. 36 A,22
+1161,str. Dimitrie Brandza nr. 2 D,22
+1162,str. Dimitrie Brandza nr. 2 F,22
+1163,str. B-dul. G. Enescu nr. 16 B,22
+1164,str. B-dul. G. Enescu nr. 12 A,22
+1165,str. Calea Nationala nr. 49 A (UNICAT),24
+1166,str. Aprodul Purice 5 B ( A8 )-(bs),24
+1167,str. Calea Nationala nr. 53 C (A12),24
+1168,str. Aprodul Purice nr. 3 sc. A (A 4),24
+1169,str. Garii nr. 4 4B (B 6),24
+1170,str. Calea Nationala nr. 53 A (A10),24
+1171,str. Aprodul Purice nr. 1 sc. A (A 1),24
+1172,str. Aprodul Purice nr. 1 sc. B (A 2),24
+1173,str. Aprodul Purice nr. 1 sc. C (A 3),24
+1174,str. Aprodul Purice nr. 3 sc. B (A 5),24
+1175,str. Aprodul Purice nr. 3 sc. C (A 6),24
+1176,str. Aprodul Purice nr. 5 sc. A (A 7),24
+1177,str. Aprodul Purice nr. 5 sc. B (A 8),24
+1178,str. Aprodul Purice nr. 5 sc. C (A 9),24
+1179,str. Calea Nationala nr. 53 B (A11),24
+1180,str. Calea Nationala nr. 53 D (A13),24
+1181,str. Calea Nationala nr. 51 A (B 1),24
+1182,str. Calea Nationala nr. 51 B (B 2),24
+1183,str. Garii nr. 2 (B 4),24
+1184,str. Garii nr. 4 A (B 5),24
+1185,str. Garii nr. 4 C (B 7) - (DO),24
+1186,str. Calea Nationala nr. 47 D (C 1),24
+1187,str. Calea Nationala nr. 47 C (C 2),24
+1188,str. Calea Nationala nr. 47 B (C 3),24
+1189,str. Calea Nationala nr. 47 A (C 4),24
+1190,str. Calea Nationala nr. 45 D (C 5),24
+1191,str. Calea Nationala nr. 45 C (C 6) (DO),24
+1192,str. Calea Nationala nr. 45 B (C 7),24
+1193,str. Calea Nationala nr. 45 A (C 8),24
+1194,str. Calea Nationala nr. 55 A (I 1),24
+1195,str. Calea Nationala nr. 55 B (I 2),24
+1196,str. Calea Nationala nr. 55 C (I 3),24
+1197,str. Calea Nationala nr. 55 D (I 4),24
+1198,str. Calea Nationala nr. 55 E (I 5),24
+1199,str. Calea Nationala nr. 49 B (UNICAT),24
+1200,str. B-dul. G. Enescu nr. 11 B,25
+1201,str. B-dul. G. Enescu nr. 11 A,25
+1202,str. B-dul. G. Enescu nr. 9 B,25
+1203,str. B-dul. G. Enescu nr. 9 A,25
+1204,str. Primaverii nr. 28 C,25
+1205,str. Primaverii nr. 28 B,25
+1206,str. Primaverii nr. 28 A,25
+1207,str. Al. Constantin Gane nr. 4 A,25
+1208,str. Al. Constantin Gane nr. 2 A,25
+1209,str. Al. Constantin Gane nr. 2 B,25
+1210,str. Al. Constantin Gane nr. 4 B,25
+1211,str. M. Kogalniceanu nr. 40 C,25
+1212,str. M. Kogalniceanu nr. 40 B,25
+1213,str. M. Kogalniceanu nr. 40 A,25
+1214,str. M. Kogalniceanu nr. 38 D,25
+1215,str. M. Kogalniceanu nr. 38 C,25
+1216,str. Primaverii nr. 32 C,25
+1217,str. Primaverii nr. 32 A,25
+1218,str. M. Kogalniceanu nr. 38 A,25
+1219,str. Primaverii nr. 32 B,25
+1220,str. M. Kogalniceanu nr. 38 B,25
+1221,str. Aleea Tiberiu Crudu nr. 10 E ,25
+1222,str. Aleea Tiberiu Crudu nr. 10 D,25
+1223,str. Aleea Tiberiu Crudu nr. 10 C ,25
+1224,str. Aleea Tiberiu Crudu nr. 10 B ,25
+1225,str. Aleea Tiberiu Crudu nr. 10 A ,25
+1226,str. Aleea Tiberiu Crudu nr. 9 F ,25
+1227,str. Aleea Tiberiu Crudu nr. 9 E ,25
+1228,str. Aleea Tiberiu Crudu nr. 9 D ,25
+1229,str. Aleea Tiberiu Crudu nr. 9 C ,25
+1230,str. Aleea Tiberiu Crudu nr. 9 B ,25
+1231,str. Aleea Tiberiu Crudu nr. 9 A ,25
+1232,str. M. Kogalniceanu nr. 64 A,25
+1233,str. Al. Constantin Gane nr. 14 A,25
+1234,str. Al. Constantin Gane nr. 14 B,25
+1235,str. M. Kogalniceanu nr. 64 B,25
+1236,str. Al. Constantin Gane nr. 1 A,25
+1237,str. Al. Constantin Gane nr. 1 B,25
+1238,str. Al. Constantin Gane nr. 6 B,25
+1239,str. Al. Constantin Gane nr. 6 C,25
+1240,str. Al. Constantin Gane nr. 8 B,25
+1241,str. Al. Constantin Gane nr. 8 A,25
+1242,str. Al. Constantin Gane nr. 10 A,25
+1243,str. Al. Constantin Gane nr. 10 B,25
+1244,str. Al. Constantin Gane nr. 10 C,25
+1245,str. Al. Constantin Gane nr. 10 D,25
+1246,str. Al. Constantin Gane nr. 10 E,25
+1247,str. Al. Constantin Gane nr. 16 B,25
+1248,str. Al. Constantin Gane nr. 16 A,25
+1249,str. Al. Constantin Gane nr. 12 A,25
+1250,str. Al. Constantin Gane nr. 12 B,25
+1251,str. Al. Constantin Gane nr. 12 C,25
+1252,str. Al. Constantin Gane nr. 12 D,25
+1253,str. Primaverii nr. 30 E,25
+1254,str. Primaverii nr. 30 D,25
+1255,str. Primaverii nr. 30 C,25
+1256,str. Primaverii nr. 30 B,25
+1257,str. Primaverii nr. 30 A,25
+1258,str. Aleea Tiberiu Crudu nr. 1 A ,25
+1259,str. Aleea Tiberiu Crudu nr. 1 B ,25
+1260,str. Aleea Tiberiu Crudu nr. 3 A ,25
+1261,str. Aleea Tiberiu Crudu nr. 3 B ,25
+1262,str. Aleea Tiberiu Crudu nr. 3 C ,25
+1263,str. Aleea Tiberiu Crudu nr. 3 D ,25
+1264,str. Aleea Tiberiu Crudu nr. 5 A ,25
+1265,str. Aleea Tiberiu Crudu nr. 5 D ,25
+1266,str. Al. Constantin Gane nr. 3 B,25
+1267,str. Al. Constantin Gane nr. 3 A,25
+1268,str. Al. Constantin Gane nr. 7 A,25
+1269,str. Al. Constantin Gane nr. 5 B,25
+1270,str. Aleea Tiberiu Crudu nr. 8 B ,25
+1271,str. Aleea Tiberiu Crudu nr. 4 B ,25
+1272,str. Aleea Tiberiu Crudu nr. 6 B,25
+1273,str. Aleea Tiberiu Crudu nr. 2 B,25
+1274,str. Al. Constantin Gane nr. 5 A,25
+1275,str. Al. Constantin Gane nr. 7 B,25
+1276,str. Aleea Tiberiu Crudu nr. 7 ,25
+1277,str. M. Kogalniceanu nr. 42 A,25
+1278,str. M. Kogalniceanu nr. 42 B,25
+1279,str. M. Kogalniceanu nr. 42 C,25
+1280,str. M. Kogalniceanu nr. 42 D,25
+1281,str. Aleea Tiberiu Crudu nr. 5 C ,25
+1282,str. Aleea Tiberiu Crudu nr. 5 B ,25
+1283,str. Aleea Tiberiu Crudu nr. 2 A ,25
+1284,str. Aleea Tiberiu Crudu nr. 4 A ,25
+1285,str. Aleea Tiberiu Crudu nr. 6 A ,25
+1286,str. Aleea Tiberiu Crudu nr. 8 A ,25
+1287,str. Al. Constantin Gane nr. 6 A,25
+1288,str. M. Kogalniceanu nr. 40scB ( bs ),25
+1289,str. Calugareni nr. 3 CASA HOJMANIUC,26
+1290,str. Savenilor nr. 19 A (D 11),26
+1291,str. T. Vladimirescu nr. 10 A (D 5),26
+1292,str. T. Vladimirescu nr. 9 A (H 1),26
+1293,str. T. Vladimirescu nr. 11 A (G 2),26
+1294,str. Savenilor nr. 42 A (G 3),26
+1295,str. Savenilor nr. 42 B (G 4),26
+1296,str. Savenilor nr. 42 D (G 6),26
+1297,str. Savenilor nr. 42 E (G 7),26
+1298,str. Savenilor nr. 42 F (G 8),26
+1299,str. Savenilor nr. 46 A (G 10),26
+1300,str. Savenilor nr. 46 B (G 11),26
+1301,str. Savenilor nr. 21 C (H 8),26
+1302,str. Savenilor nr. 21 B (H 9),26
+1303,str. Savenilor nr. 21 A (H 10),26
+1304,str. T. Vladimirescu nr. 9 F (H 11),26
+1305,str. T. Vladimirescu nr. 9 D (H 13),26
+1306,str. T. Vladimirescu nr. 9 C (H 14),26
+1307,str. T. Vladimirescu nr. 9 B (H 15),26
+1308,str. Savenilor nr. 23 A (H 18),26
+1309,str. Savenilor nr. 23 B (H 19),26
+1310,str. Savenilor nr. 23 C (H 20),26
+1311,str. Aleea Alba Iulia nr. 1 sc.D (D 1),26
+1312,str. Savenilor nr. 19 B (D 10),26
+1313,str. Aleea Alba Iulia nr. 3 sc. E (D 18),26
+1314,str. Aleea Alba Iulia nr. 3 sc. D (D 19),26
+1315,str. Savenilor nr. 36 D (E 12),26
+1316,str. Savenilor nr. 42 C (G 5),26
+1317,str. Savenilor nr. 42 G (G 9),26
+1318,str. T. Vladimirescu nr. 9 E (H 12),26
+1319,str. Aleea Alba Iulia nr. 1 sc.C (D 2),26
+1320,str. Aleea Calugareni nr. 5 sc. E (S 5),26
+1321,str. Aleea Calugareni nr. 5 sc. F (S 6),26
+1322,str. Aleea Alba Iulia nr. 1 sc.B (D 3),26
+1323,str. Aleea Alba Iulia nr. 1 sc.A (D 4),26
+1324,str. T. Vladimirescu nr. 10 B (D 6),26
+1325,str. T. Vladimirescu nr. 10 C (D 7)-DO,26
+1326,str. T. Vladimirescu nr. 10 D (D 8),26
+1327,str. T. Vladimirescu nr. 10 E (D 9),26
+1328,str. Savenilor nr. 17 C (D 12),26
+1329,str. Savenilor nr. 17 B (D 13),26
+1330,str. Savenilor nr. 17 A (D 14),26
+1331,str. Aleea Alba Iulia nr. 3 sc. C (D 20),26
+1332,str. Aleea Alba Iulia nr. 3 sc. B (D 21),26
+1333,str. Aleea Alba Iulia nr. 3 sc. A (D 22) (DO),26
+1334,str. Savenilor nr. 25 A (H 21),26
+1335,str. Savenilor nr. 25 B (H 22),26
+1336,str. Independentei nr. 11 E (E 4),26
+1337,str. Independentei nr. 11 D (E 5),26
+1338,str. Independentei nr. 11 C (E 6),26
+1339,str. Independentei nr. 11 B (E 7),26
+1340,str. Independentei nr. 11 A (E 8),26
+1341,str. Savenilor nr. 36 C (E 11),26
+1342,str. Calugareni nr. 1 sc. C (F 1),26
+1343,str. Calugareni nr. 1 sc. B (F 2),26
+1344,str. Savenilor nr. 36 A (E 9),26
+1345,str. Savenilor nr. 36 B (E 10),26
+1346,str. Savenilor nr. 40 A (F 6),26
+1347,str. Savenilor nr. 40 B (F 7),26
+1348,str. Calugareni nr. 1 sc. A (F 3),26
+1349,str. Savenilor nr. 40 C (F 8),26
+1350,str. Savenilor nr. 40 D (F 9),26
+1351,str. Savenilor nr. 40 E (F 10),26
+1352,str. T. Vladimirescu nr. 14 A (F 11),26
+1353,str. T. Vladimirescu nr. 14 B (F 12),26
+1354,str. T. Vladimirescu nr. 11 B (G 1),26
+1355,str. T. Vladimirescu nr. 12 Casa Gradinaru,26
+1356,str. Primaverii nr. 2 sc.A,27
+1357,str. Primaverii nr. 2 sc.C,27
+1358,str. Primaverii nr. 4 sc. B,27
+1359,str. Primaverii nr. 4 sc. A,27
+1360,str. Primaverii nr. 6 sc.B,27
+1361,str. Aleea Elie Radu nr. 14,27
+1362,str. Aleea Elie Radu nr. 8,27
+1363,str. Aleea Elie Radu nr. 28,27
+1364,str. Aleea Elie Radu nr. 26,27
+1365,str. Primaverii nr. 10 B,27
+1366,str. Primaverii nr. 8 C,27
+1367,str. Primaverii nr. 10 A,27
+1368,str. Primaverii nr. 10 C,27
+1369,str. Primaverii nr. 8 B,27
+1370,str. Primaverii nr. 8 A,27
+1371,str. Aleea Elie Radu nr. 20,27
+1372,str. Primaverii nr. 2 sc. D,27
+1373,str. Aleea Elie Radu nr. 2,27
+1374,str. Aleea Elie Radu nr. 22,27
+1375,str. Aleea Elie Radu nr. 18,27
+1376,str. Aleea Elie Radu nr. 6,27
+1377,str. Primaverii nr. 6 sc.A,27
+1378,str. Aleea Elie Radu nr. 4 sc.A,27
+1379,str. Aleea Elie Radu nr. 4 sc.B,27
+1380,str. Aleea Elie Radu nr. 16,27
+1381,str. Aleea Elie Radu nr. 10,27
+1382,str. Aleea Elie Radu nr. 12,27
+1383,str. Aleea Elie Radu nr. 24,27
+1384,str. Primaverii nr. 2 sc.B,27
+1385,str. Primaverii nr. 6scA ( bs ),27
+1386,str. Aleea Nucului nr. 7 A,28
+1387,str. Aleea Scurta nr. 10 sc.A,28
+1388,str. Aleea Scurta nr. 10 sc.B,28
+1389,str. Aleea Nucului nr. 7 B,28
+1390,str. Octav Onicescu nr. 5 sc. A,28
+1391,str. Aleea Scurta nr. 12 sc.C,28
+1392,str. Primaverii nr. 14 sc.A,28
+1393,str. Primaverii nr. 14 sc.C,28
+1394,str. Primaverii nr. 14 sc.D,28
+1395,str. Aleea Scurta nr. 3 sc.A,28
+1396,str. Aleea Scurta nr. 3 sc.B,28
+1397,str. Aleea Scurta nr. 3 sc.C,28
+1398,str. Aleea Nucului nr. 5 B MIHALACHI ( bs ),28
+1399,str. Octav Onicescu nr. 5 sc. C,28
+1400,str. Aleea Nucului nr. 1 A,28
+1401,str. Aleea Nucului nr. 5 A,28
+1402,str. Aleea Nucului nr. 5 B,28
+1403,str. Aleea Nucului nr. 2,28
+1404,str. Aleea Nucului nr. 4-,28
+1405,str. Aleea Nucului nr. 3,28
+1406,str. Aleea Nucului nr. 6-,28
+1407,str. Aleea Nucului nr. 1 C,28
+1408,str. Aleea Nucului nr. 1 B,28
+1409,str. Aleea Scurta nr. 2 sc.B,28
+1410,str. Aleea Scurta nr. 2 sc.A,28
+1411,str. Aleea Scurta nr. 8*,28
+1412,str. Aleea Scurta nr. 6*,28
+1413,str. Aleea Scurta nr. 4*,28
+1414,str. Aleea Scurta nr. 1 sc.B,28
+1415,str. Aleea Scurta nr. 1 sc.A,28
+1416,str. Aleea Elie Radu nr. 36,28
+1417,str. Aleea Elie Radu nr. 34,28
+1418,str. Aleea Elie Radu nr. 30,28
+1419,str. Aleea Elie Radu nr. 32,28
+1420,str. Aleea Nucului nr. 1 D,28
+1421,str. Primaverii nr. 12 sc. A,28
+1422,str. Primaverii nr. 12 sc. B,28
+1423,str. Primaverii nr. 12 sc. C (DO),28
+1424,str. Primaverii nr. 12 sc. D,28
+1425,str. Aleea Nucului nr. 8-,28
+1426,str. Primaverii nr. 14 sc.E,28
+1427,str. Aleea Scurta nr. 12 sc.B,28
+1428,str. Octav Onicescu nr. 5 sc. D,28
+1429,str. Octav Onicescu nr. 5 sc. B,28
+1430,str. Primaverii nr. 14 sc.B,28
+1431,str. Aleea Scurta nr. 12 sc.A,28
+1432,str. Aleea Nucului nr. 18 B,29
+1433,str. Aleea Nucului nr. 18 A,29
+1434,str. Aleea Parcului nr. 4 sc. B,29
+1435,str. Aleea Parcului nr. 12 (G100),29
+1436,str. Aleea Parcului nr. 10 sc. A,29
+1437,str. Aleea Nucului nr. 10,29
+1438,str. Aleea Parcului nr. 10 sc. E,29
+1439,str. Aleea Parcului nr. 8*,29
+1440,str. Aleea Parcului nr. 10 sc. D,29
+1441,str. Aleea Parcului nr. 10 sc. C,29
+1442,str. Aleea Parcului nr. 10 sc. B,29
+1443,str. Aleea Nucului nr. 12 B,29
+1444,str. Aleea Nucului nr. 24,29
+1445,str. Aleea Nucului nr. 20 B,29
+1446,str. Aleea Parcului nr. 2*,29
+1447,str. Aleea Parcului nr. 4 sc. C,29
+1448,str. Aleea Parcului nr. 4 sc. A,29
+1449,str. Aleea Parcului nr. 1 sc. A,29
+1450,str. Aleea Parcului nr. 1 sc. B,29
+1451,str. Aleea Parcului nr. 6*,29
+1452,str. Aleea Nucului nr. 14,29
+1453,str. Aleea Nucului nr. 16 A,29
+1454,str. Aleea Nucului nr. 16 B,29
+1455,str. Aleea Nucului nr. 20 A,29
+1456,str. Aleea Nucului nr. 22,29
+1457,str. Aleea Nucului nr. 12 A,29
+1458,str. Octav Onicescu nr. 3 (Bloc agenti),29
+1459,str. M. Kogalniceanu nr. 53 CASA CARLAN GABRIEL,30
+1460,str. Aleea M.Kogalniceanu nr. 8 CASA HANACHIUC SILVI,30
+1461,str. Aleea Amurgului nr. 1 Casa MATIESCU NELI,30
+1462,str. Aleea Azurului nr.3 sc.B (E3),30
+1463,str. Aleea M.Kogalniceanu nr. 2 sc.C (I1),30
+1464,str. Aleea Azurului nr. 3 sc.A (E3),30
+1465,str. Aleea Azurului nr. 2D,30
+1466,str. Aleea Azurului nr. 2A,30
+1467,str. Bucovina nr. 16A,30
+1468,str. Aleea Bucovina nr. 2 A,30
+1469,str. Aleea Bucovina nr. 2 B,30
+1470,str. Aleea Bucovina nr. 2 C,30
+1471,str. Aleea Bucovina nr. 4 A,30
+1472,str. Aleea M.Kogalniceanu nr. 3 A,30
+1473,str. Aleea Azurului nr. 1A,30
+1474,str. Aleea Azurului nr. 4B,30
+1475,str. Aleea Azurului nr. 4C,30
+1476,str. M. Kogalniceanu nr. 51 A,30
+1477,str. M. Kogalniceanu nr. 51 B,30
+1478,str. M. Kogalniceanu nr. 51 C,30
+1479,str. M. Kogalniceanu nr. 49 A,30
+1480,str. M. Kogalniceanu nr. 49 B,30
+1481,str. M. Kogalniceanu nr. 49 C,30
+1482,str. Bucovina nr. 14B,30
+1483,str. Viilor nr. 1 A (I3 A),30
+1484,str. Aleea M.Kogalniceanu nr. 2 sc.A (I1),30
+1485,str. Aleea M.Kogalniceanu nr. 1 sc.A (B3),30
+1486,str. Viilor nr. 1 D (I3* A)-DO,30
+1487,str. Viilor nr. 1 E (I3* B),30
+1488,str. Viilor nr. 3 A (I4 A),30
+1489,str. Viilor nr. 3 B (I4 B),30
+1490,str. Viilor nr. 3 C (I4 C),30
+1491,str. Viilor nr. 3 D (I4 D),30
+1492,str. Aleea M.Kogalniceanu nr. 1 sc.B (B3),30
+1493,str. Aleea Azurului nr. 3 sc.C (E3),30
+1494,str. M. Kogalniceanu nr. 57 A,30
+1495,str. M. Kogalniceanu nr. 57 B,30
+1496,str. Bucovina nr. 24 C,30
+1497,str. Bucovina nr. 26 C,30
+1498,str. Bucovina nr. 26 B,30
+1499,str. Bucovina nr. 26 A,30
+1500,str. Bucovina nr. 28,30
+1501,str. Viilor nr. 11 A,30
+1502,str. Viilor nr. 9 A,30
+1503,str. Viilor nr. 11 B,30
+1504,str. Viilor nr. 9 B,30
+1505,str. Aleea M.Kogalniceanu nr. 5 D,30
+1506,str. Aleea M.Kogalniceanu nr. 2 sc.B (I1),30
+1507,str. M. Kogalniceanu nr. 57 C,30
+1508,str. Viilor nr. 1 B (I3 B),30
+1509,str. Viilor nr. 1 C (I3 C),30
+1510,str. Aleea Bucovina nr. 3 G2 C,30
+1511,str. Viilor nr. 7 C (H3 C),30
+1512,str. Aleea Amurgului nr. 4 sc.A (G3),30
+1513,str. Aleea Amurgului nr. 6 sc.A (I5),30
+1514,str. Bucovina nr. 24 B,30
+1515,str. Bucovina nr. 24 A,30
+1516,str. Aleea Azurului nr. 1 B,30
+1517,str. Aleea Azurului nr. 2 C,30
+1518,str. Aleea Azurului nr. 4 A,30
+1519,str. Aleea Azurului nr. 2 B,30
+1520,str. Aleea Bucovina nr. 4 B,30
+1521,str. Aleea M.Kogalniceanu nr. 3 B,30
+1522,str. Bucovina nr. 14 A,30
+1523,str. Bucovina nr. 14 E,30
+1524,str. Bucovina nr. 14 D,30
+1525,str. Bucovina nr. 14 C,30
+1526,str. Bucovina nr. 16 B,30
+1527,str. Viilor nr. 7 B (H3 B),30
+1528,str. Aleea M.Kogalniceanu nr. 5 sc.A (G9),30
+1529,str. Aleea M.Kogalniceanu nr. 5 sc.B (G9),30
+1530,str. Bucovina nr. 18 CASA BOBOC,30
+1531,str. Bucovina nr. 22 CASA MACOVEI,30
+1532,str. Aleea M.Kogalniceanu nr. 5 sc.C (G9),30
+1533,str. Viilor nr. 5 B (H1 A),30
+1534,str. Viilor nr. 5 C (H1 B),30
+1535,str. Viilor nr. 5 D (H1 C),30
+1536,str. Viilor nr. 3 E (I4 E),30
+1537,str. Viilor nr. 7 A (H3 A),30
+1538,str. Aleea Amurgului nr. 4 sc.C (G3),30
+1539,str. Aleea Bucovina nr. 3 G2 A,30
+1540,str. Aleea Amurgului nr. 3 sc.B (H2),30
+1541,str. Aleea Amurgului nr. 6 sc.B (I5),30
+1542,str. Aleea Amurgului nr. 2 sc.A (G4),30
+1543,str. Aleea Amurgului nr. 3 sc.A (H2),30
+1544,str. Viilor nr. 5 A,30
+1545,str. Aleea Bucovina nr. 1 G1 A,30
+1546,str. Aleea Bucovina nr. 1 G1 B,30
+1547,str. Aleea Bucovina nr. 3 G2 B,30
+1548,str. Aleea M.Kogalniceanu nr. 14 (H2 C),30
+1549,str. Aleea Amurgului nr. 1 sc.B (G7),30
+1550,str. Aleea Amurgului nr. 1 sc.C (G7),30
+1551,str. Aleea Amurgului nr. 4 sc.B (G3),30
+1552,str. Aleea Amurgului nr. 2 sc.B (G4),30
+1553,str. Aleea Amurgului nr. 1 sc.A (G7),30
+1554,str. Aleea Eliberarii nr. 4 sc. B (A1),31
+1555,str. Aleea Eliberarii nr. 4 sc. A (A1),31
+1556,str. Aleea Eliberarii nr. 8 sc. B (A2),31
+1557,str. Aleea Eliberarii nr. 8 sc. A (A2),31
+1558,str. Bucovina nr. 25 (G44),31
+1559,str. Bucovina nr. 23 (C1),31
+1560,str. Bucovina nr. 19 B (D3-B),31
+1561,str. Nicolae Iorga nr. 36 B,31
+1562,str. Nicolae Iorga nr. 47 A,31
+1563,str. Nicolae Iorga nr. 47 D,31
+1564,str. Nicolae Iorga nr. 47 C,31
+1565,str. Nicolae Iorga nr. 43 B,31
+1566,str. Nicolae Iorga nr. 36 C,31
+1567,str. Nicolae Iorga nr. 36 A,31
+1568,str. Nicolae Iorga nr. 47 B,31
+1569,str. Nicolae Iorga nr. 43 A,31
+1570,str. Nicolae Iorga nr. 39 B,31
+1571,str. Nicolae Iorga nr. 41 A,31
+1572,str. Nicolae Iorga nr. 41 B,31
+1573,str. Nicolae Iorga nr. 41 C,31
+1574,str. Bucovina nr. 19 C (D3-C),31
+1575,str. Bucovina nr. 19 A (D3-A),31
+1576,str. Bucovina nr. 17 B (D1-B),31
+1577,str. Bucovina nr. 17 C (D1-C),31
+1578,str. Bucovina nr. 17 A (D1-A),31
+1579,str. Bucovina nr. 21 A (D2-A),31
+1580,str. Bucovina nr. 21 B (D2-B),31
+1581,str. Bucovina nr. 21 C (D2-C),31
+1582,str. Nicolae Iorga nr. 32 A,31
+1583,str. Aleea Eliberarii nr. 1 sc. A (J 3),31
+1584,str. Aleea Eliberarii nr. 1 sc. B (J3),31
+1585,str. Aleea Eliberarii nr. 1 sc. C (J 3),31
+1586,str. Aleea Eliberarii nr. 1 sc. D (J3),31
+1587,str. Aleea Eliberarii nr. 2 sc. D (L1),31
+1588,str. Aleea Eliberarii nr. 2 sc. C (L 1),31
+1589,str. Aleea Eliberarii nr. 2 sc. B (L1),31
+1590,str. Aleea Eliberarii nr. 2 sc. A (L 1),31
+1591,str. Nicolae Iorga nr. 32 B,31
+1592,str. Nicolae Iorga nr. 39 A,31
+1593,str. Aleea Capitan Romano nr. 1 SC.B,32
+1594,str. Aleea Capitan Romano nr. 2 sc.B,32
+1595,str. M. Kogalniceanu nr. 14 sc. C,32
+1596,str. Al. slt. I.Frunzetti nr. 5 sc. A,32
+1597,str. Al. slt. I.Frunzetti nr. 3 sc. A,32
+1598,str. Al. slt. I.Frunzetti nr. 3 sc. B,32
+1599,str. Aleea Capitan Romano nr. 2 SC.A,32
+1600,str. M. Kogalniceanu nr. 8 A,32
+1601,str. M. Kogalniceanu nr. 8 sc. B,32
+1602,str. Al. slt. I.Frunzetti nr. 1 sc. B,32
+1603,str. Al. slt. I.Frunzetti nr. 7 sc. B,32
+1604,str. Al. slt. I.Frunzetti nr. 7 sc. A,32
+1605,str. Al. slt. I.Frunzetti nr. 5 sc. C,32
+1606,str. Al. slt. I.Frunzetti nr. 5 sc. B,32
+1607,str. B-dul M. Eminescu nr. 73 sc.B,32
+1608,str. Aleea Capitan Romano nr. 1 SC.A,32
+1609,str. M. Kogalniceanu nr. 14 sc. D,32
+1610,str. M. Kogalniceanu nr. 10 N3- A,32
+1611,str. M. Kogalniceanu nr. 10 N3- B,32
+1612,str. M. Kogalniceanu nr. 23 sc. B,32
+1613,str. M. Kogalniceanu nr. 23 sc. A,32
+1614,str. M. Kogalniceanu nr. 14 sc. B,32
+1615,str. M. Kogalniceanu nr. 14 sc. A,32
+1616,str. M. Kogalniceanu nr. 10 N3- C,32
+1617,str. Al. slt. I.Frunzetti nr. 1 sc. A,32
+1618,str. B-dul M. Eminescu nr. 73 sc.A,32
+1619,str. Cornisa nr. 2 CAMIN 2,34
+1620,str. Calea Nationala nr. 10A,34
+1621,str. Calea Nationala nr. 9A,34
+1622,str. Cornisa nr. 8 ALCOR,34
+1623,str. Cornisa nr. 6 MECANICA,34
+1624,str. Cornisa nr. 5 CAMIN 3,34
+1625,str. Calea Nationala nr. 13A,34
+1626,str. Calea Nationala nr. 13B,34
+1627,str. Calea Nationala nr. 11A,34
+1628,str. Calea Nationala nr. 11B,34
+1629,str. Calea Nationala nr. 11C,34
+1630,str. Calea Nationala nr. 11D,34
+1631,str. Calea Nationala nr. 9B,34
+1632,str. Calea Nationala nr. 9C,34
+1633,str. Calea Nationala nr. 7A,34
+1634,str. Calea Nationala nr. 7B,34
+1635,str. Calea Nationala nr. 7C,34
+1636,str. Calea Nationala nr. 7D,34
+1637,str. Calea Nationala nr. 8G,34
+1638,str. Calea Nationala nr. 8F,34
+1639,str. Calea Nationala nr. 8E,34
+1640,str. Calea Nationala nr. 8D,34
+1641,str. Calea Nationala nr. 8C,34
+1642,str. Calea Nationala nr. 8B,34
+1643,str. Calea Nationala nr. 8A,34
+1644,str. Calea Nationala nr. 10B,34
+1645,str. Aleea Zorilor nr. 2 A,33
+1646,str. B-dul. G. Enescu nr. 2 A,33
+1647,str. B-dul. G. Enescu nr. 4 A,33
+1648,str. Aleea Zorilor nr. 4 A,33
+1649,str. B-dul M. Eminescu nr. 42 A,33
+1650,str. Aleea Zorilor nr. 8 Casa Hurduc,33
+1651,str. Aleea Zorilor nr. 19 (gars),33
+1652,str. M. Kogalniceanu nr. 18 A,33
+1653,str. B-dul. G. Enescu nr. 4 B,33
+1654,str. B-dul. G. Enescu nr. 4 D,33
+1655,str. B-dul. G. Enescu nr. 4 C,33
+1656,str. B-dul. G. Enescu nr. 2 B,33
+1657,str. B-dul. G. Enescu nr. 2 C,33
+1658,str. Bucovina nr. 15 A,33
+1659,str. Bucovina nr. 15 B,33
+1660,str. Bucovina nr. 15 C,33
+1661,str. Bucovina nr. 15 D,33
+1662,str. Bucovina nr. 13 A,33
+1663,str. Bucovina nr. 13 B,33
+1664,str. B-dul. G. Enescu nr. 1 A,33
+1665,str. B-dul. G. Enescu nr. 1 B,33
+1666,str. B-dul. G. Enescu nr. 3 B,33
+1667,str. B-dul. G. Enescu nr. 3 A,33
+1668,str. B-dul M. Eminescu nr. 42 C,33
+1669,str. B-dul M. Eminescu nr. 42 B,33
+1670,str. Aleea Zorilor nr. 16,33
+1671,str. Aleea Zorilor nr. 3 B,33
+1672,str. Aleea Zorilor nr. 3 A,33
+1673,str. Aleea Zorilor nr. 1 B,33
+1674,str. Aleea Zorilor nr. 1 A,33
+1675,str. Aleea Zorilor nr. 12,33
+1676,str. Aleea Zorilor nr. 6 C,33
+1677,str. Aleea Zorilor nr. 6 D,33
+1678,str. Aleea Zorilor nr. 6 E,33
+1679,str. Aleea Zorilor nr. 6 F,33
+1680,str. Aleea Zorilor nr. 6 A,33
+1681,str. Aleea Zorilor nr. 6 B,33
+1682,str. Aleea Zorilor nr. 17 A,33
+1683,str. Aleea Zorilor nr. 17 B,33
+1684,str. Aleea Zorilor nr. 17 C,33
+1685,str. Aleea Zorilor nr. 14 B,33
+1686,str. Aleea Zorilor nr. 14 A,33
+1687,str. Aleea Zorilor nr. 4 C,33
+1688,str. Aleea Zorilor nr. 4 B,33
+1689,str. Aleea Zorilor nr. 2 B,33
+1690,str. Aleea Zorilor nr. 2 C,33
+1691,str. Aleea Zorilor nr. 2 D,33
+1692,str. Bucovina nr. 13 C,33
+1693,"1, sc. A+B, Unirii 7",17
+1694,"8, sc. A+B, Markian 14",18
+1695,"4, sc. A+B,Aleea M. Gorki 12",18
+1696,"6 A-B, Varnav 4, A+B",7
+1697,"24 A+B,Stefan Luchianr.24 a +b",4
+1698,"6 A, Primaverii",27
+1699,"T. Crudu 4, A+B",25
+1700,"UNICAT A+B, C. Nationala 49, A+B",24
+1701,"G. Enescu 22, sc. A+B",21
+1702,"1/1 + Z 1/2, Grivita 9,A+B",13
+1703,"14+ V15,Al. Grivita 7,A+B",13
+1704,"40 B+ALBU, M. Kogalniceanu",25
+1705,"13 A+B, C. Nationala 13 A+B",34
+1706,"21+22,Alex. Donici 1, A+B",14
+1707,"5 AB,Sucevei 7",16
+1708,1C2C3,35
+1709,"8scA,C. Nationala 8, A(PF Romaniuc Rodica)",34
